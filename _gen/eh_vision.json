@@ -1,0 +1,2119 @@
+[
+ {
+  "slug": "the-vision",
+  "title": "The Vision",
+  "cat": "the-vision",
+  "lede": "The world fusion could help build: an advanced society powered cleanly while the living planet is given room to heal.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "Why hold a vision at all"
+   ],
+   [
+    "p",
+    "Engineering is disciplined by numbers, but it is aimed by a picture of the world it is trying to reach. Kronos keeps its technical work honest and its ambition explicit, and refuses to blur the line between the two. This page, and the pages linked from it, are the explicit picture. Everything here is labeled as vision so it is never mistaken for a specification."
+   ],
+   [
+    "p",
+    "The picture is simple to state. Human civilization keeps advancing — more computation, more medicine, more mobility, more people living well — while the atmosphere, the oceans, the forests, and the wild places recover rather than degrade. Historically those two goals have pulled against each other, because progress was paid for by burning things. Abundant clean energy is the hinge that lets both move in the same direction."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 720 300\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><rect x=\"0\" y=\"0\" width=\"640\" height=\"300\" fill=\"none\"/><text x=\"320\" y=\"34\" fill=\"#E8E4DA\" font-size=\"16\" text-anchor=\"middle\" font-family=\"Georgia,serif\">Two curves that no longer trade against each other</text><line x1=\"70\" y1=\"250\" x2=\"600\" y2=\"250\" stroke=\"#5b6472\" stroke-width=\"1.2\"/><line x1=\"70\" y1=\"60\" x2=\"70\" y2=\"250\" stroke=\"#5b6472\" stroke-width=\"1.2\"/><path d=\"M70 210 C 220 170, 420 120, 600 80\" fill=\"none\" stroke=\"#D4AD5C\" stroke-width=\"3\"/><path d=\"M70 200 C 220 210, 420 235, 600 240\" fill=\"none\" stroke=\"#7fa38a\" stroke-width=\"3\"/><text x=\"606\" y=\"80\" fill=\"#D4AD5C\" font-size=\"12\" font-family=\"sans-serif\">human capability</text><text x=\"606\" y=\"244\" fill=\"#7fa38a\" font-size=\"12\" font-family=\"sans-serif\">ecological burden</text><text x=\"80\" y=\"272\" fill=\"#8a93a3\" font-size=\"11\" font-family=\"sans-serif\">time →</text></svg>"
+   ],
+   [
+    "h2",
+    "What has to be true"
+   ],
+   [
+    "p",
+    "A vision is only worth stating if it names its conditions. For this one, clean energy has to become both abundant and firm — available at scale, and available on demand rather than only when the wind blows. It has to complement renewables instead of competing with them. And it has to arrive without a large new environmental burden of its own: no meltdown risk, little long-lived waste, minimal water, a small land footprint, and fuel that does not require mining."
+   ],
+   [
+    "p",
+    "The environment, health, and safety pages of this site make the honest, present-day case for each of those properties. This section extends that case forward in time and asks: if the properties hold, what world do they make available? Read the pages that follow as a set of if-then statements, not as guarantees."
+   ],
+   [
+    "h2",
+    "How to read this section"
+   ],
+   [
+    "ul",
+    [
+     "Every page here is labeled as vision and separated from the technical safety case.",
+     "No economics appear anywhere — no prices, costs, or returns.",
+     "Frozen technical numbers, where cited, carry their real conditions.",
+     "The endgame is a balance, not a utopia: an advanced society and a recovering planet, held together by clean firm power."
+    ]
+   ],
+   [
+    "p",
+    "Start with <a href=./abundant-clean-energy.html>abundant clean energy</a>, then follow the arc through a <a href=./the-healed-planet.html>healed planet</a> to the closing synthesis, <a href=./the-endgame-a-balanced-world.html>a balanced world</a>."
+   ]
+  ],
+  "related": [
+   [
+    "abundant-clean-energy",
+    "Abundant Clean Energy"
+   ],
+   [
+    "the-healed-planet",
+    "The Healed Planet"
+   ],
+   [
+    "honest-vision-what-we-dont-claim",
+    "What We Don’t Claim"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "abundant-clean-energy",
+  "title": "Abundant Clean Energy",
+  "cat": "the-vision",
+  "lede": "If fusion delivers firm power at scale, energy stops being the scarce input that everything else is rationed against.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "Scarcity as the hidden tax"
+   ],
+   [
+    "p",
+    "Almost every hard trade-off in modern life traces back to energy being scarce, dirty, or both. Fresh water is limited because desalination is energy-hungry. Recycling is limited because reprocessing materials costs energy. Clean industry is limited because high-temperature heat has meant combustion. When clean energy is abundant, each of these ceilings lifts at once."
+   ],
+   [
+    "p",
+    "Abundance here does not mean infinite or free. It means clean firm generation that can be added where and when it is needed, without a proportional rise in emissions, water use, or land disturbance. That combination — clean and firm and scalable — is what fusion is being designed to add to a grid that renewables are already decarbonizing."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 280\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">Ceilings that lift together when clean energy is abundant</text><g><rect x=\"40\" y=\"210\" width=\"110\" height=\"50\" rx=\"6\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1.3\"/><text x=\"95\" y=\"240\" fill=\"#E8E4DA\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">fresh water</text><line x1=\"95\" y1=\"205\" x2=\"95\" y2=\"120\" stroke=\"#D4AD5C\" stroke-width=\"2\"/><polygon points=\"89,128 101,128 95,112\" fill=\"#D4AD5C\"/></g><g><rect x=\"185\" y=\"210\" width=\"110\" height=\"50\" rx=\"6\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1.3\"/><text x=\"240\" y=\"240\" fill=\"#E8E4DA\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">clean heat</text><line x1=\"240\" y1=\"205\" x2=\"240\" y2=\"120\" stroke=\"#D4AD5C\" stroke-width=\"2\"/><polygon points=\"234,128 246,128 240,112\" fill=\"#D4AD5C\"/></g><g><rect x=\"330\" y=\"210\" width=\"110\" height=\"50\" rx=\"6\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1.3\"/><text x=\"385\" y=\"240\" fill=\"#E8E4DA\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">recycling</text><line x1=\"385\" y1=\"205\" x2=\"385\" y2=\"120\" stroke=\"#D4AD5C\" stroke-width=\"2\"/><polygon points=\"379,128 391,128 385,112\" fill=\"#D4AD5C\"/></g><g><rect x=\"475\" y=\"210\" width=\"110\" height=\"50\" rx=\"6\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1.3\"/><text x=\"530\" y=\"240\" fill=\"#E8E4DA\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">compute</text><line x1=\"530\" y1=\"205\" x2=\"530\" y2=\"120\" stroke=\"#D4AD5C\" stroke-width=\"2\"/><polygon points=\"524,128 536,128 530,112\" fill=\"#D4AD5C\"/></g><text x=\"320\" y=\"95\" fill=\"#8a93a3\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">headroom ↑</text></svg>"
+   ],
+   [
+    "h2",
+    "Firm is the operative word"
+   ],
+   [
+    "p",
+    "A grid can be cheaply decarbonized to a point on wind, solar, and storage alone. Past that point, the last increment of reliability — the calm, dark winter week — becomes the expensive, dirty part, and is often met by keeping fossil plants on standby. Firm clean power fills exactly that role: steady output that holds the grid up when variable sources are quiet, so the fossil backstop can finally be retired."
+   ],
+   [
+    "p",
+    "Kronos is designed to be that firm partner rather than a replacement for renewables. The two machines occupy different niches — the burner (Aegis / MetroVolt) for direct, on-site electricity, the breeder (Hyperion) as the tritium and neutron foundation — but both point toward the same outcome: capability without a combustion bill."
+   ],
+   [
+    "h2",
+    "The honest boundary"
+   ],
+   [
+    "ul",
+    [
+     "This is contingent: it assumes the machines reach the performance their designs target.",
+     "Today they are simulation studies; first breeder construction is planned for Q2 2027.",
+     "Abundance is a direction of travel, not a delivered fact."
+    ]
+   ],
+   [
+    "p",
+    "See how this pairs with variable renewables in <a href=./the-firm-clean-pair.html>the firm-clean pair</a>, and where the abundance goes in <a href=./the-electrified-world.html>the electrified world</a>."
+   ]
+  ],
+  "related": [
+   [
+    "the-firm-clean-pair",
+    "The Firm-Clean Pair"
+   ],
+   [
+    "from-scarcity-to-abundance",
+    "From Scarcity to Abundance"
+   ],
+   [
+    "the-electrified-world",
+    "The Electrified World"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "powering-advanced-ai",
+  "title": "Powering Advanced Intelligence, Cleanly",
+  "cat": "the-vision",
+  "lede": "Large-scale computation is becoming a defining human capability — and its growing appetite for power can be met without a growing emissions bill.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "Compute is the new heavy industry"
+   ],
+   [
+    "p",
+    "Training and running large models, simulating proteins and plasmas, rendering weather and climate at fine resolution — all of it runs on electricity, and the demand is rising steeply. Left on a fossil grid, that demand becomes a large new source of emissions. On clean firm power, the same growth in capability arrives without the carbon."
+   ],
+   [
+    "p",
+    "Data centers are unusual loads: they run flat-out around the clock and cannot tolerate interruption. That profile is a poor match for variable generation alone and a natural match for firm clean power delivered on site. The burner housing MetroVolt is aimed squarely at this case — direct energy conversion to electricity, sited where the compute is."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 250\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">A 24/7 load met by firm clean power on site</text><rect x=\"60\" y=\"70\" width=\"150\" height=\"150\" rx=\"8\" fill=\"#232C39\" stroke=\"#7fa38a\" stroke-width=\"1.5\"/><text x=\"135\" y=\"150\" fill=\"#E8E4DA\" font-size=\"13\" text-anchor=\"middle\" font-family=\"sans-serif\">compute</text><text x=\"135\" y=\"170\" fill=\"#8a93a3\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">constant demand</text><rect x=\"430\" y=\"70\" width=\"150\" height=\"150\" rx=\"8\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1.5\"/><text x=\"505\" y=\"145\" fill=\"#D4AD5C\" font-size=\"13\" text-anchor=\"middle\" font-family=\"sans-serif\">MetroVolt</text><text x=\"505\" y=\"165\" fill=\"#8a93a3\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">firm output</text><line x1=\"430\" y1=\"145\" x2=\"210\" y2=\"145\" stroke=\"#D4AD5C\" stroke-width=\"2.5\"/><polygon points=\"218,139 218,151 206,145\" fill=\"#D4AD5C\"/><text x=\"320\" y=\"135\" fill=\"#8a93a3\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">electricity, no steam cycle</text></svg>"
+   ],
+   [
+    "h2",
+    "A virtuous loop"
+   ],
+   [
+    "p",
+    "There is a further link worth naming. The same computation that fusion powers is also what makes fusion tractable: surrogate models, plasma-control learning, and materials search all lean on large-scale compute. Advanced intelligence and clean energy can reinforce each other — better models design better machines, which power more capable models."
+   ],
+   [
+    "p",
+    "Kronos treats this as a working relationship, not a slogan. The AI and control stack that runs the plasma is the same class of system that the plant is designed to power for others."
+   ],
+   [
+    "h2",
+    "The caveat, stated plainly"
+   ],
+   [
+    "ul",
+    [
+     "Direct energy conversion in the burner is a design choice, not yet a demonstrated plant.",
+     "The burner is D–³He with a modest neutron fraction of 5.44%, still a simulation study today.",
+     "Clean compute at scale is the aim; the machines must first be built and proven."
+    ]
+   ],
+   [
+    "p",
+    "Follow the loop into <a href=./computing-and-discovery.html>computing and discovery</a>, and the load story into <a href=./the-electrified-world.html>the electrified world</a>."
+   ]
+  ],
+  "related": [
+   [
+    "computing-and-discovery",
+    "Computing & Discovery"
+   ],
+   [
+    "the-electrified-world",
+    "The Electrified World"
+   ],
+   [
+    "a-day-in-2050",
+    "A Day in 2050"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "the-healed-planet",
+  "title": "The Healed Planet",
+  "cat": "the-vision",
+  "lede": "The endgame is not merely lower emissions but a biosphere given the energy and the room to recover.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "From doing less harm to doing repair"
+   ],
+   [
+    "p",
+    "Most climate action so far has been about subtraction: emit less, use less, disturb less. Necessary, but subtraction alone leaves a damaged system to heal on its own. Abundant clean energy opens a second mode — active repair — because restoration is itself energy-intensive. Pulling carbon back out of the air, desalinating water to green arid land, and running clean industry all cost energy that has to come from somewhere clean."
+   ],
+   [
+    "p",
+    "A healed planet, in this vision, is one where the flows finally point the right way: forests expanding rather than shrinking, aquifers refilling, air clearing over cities, and the ocean chemistry stabilizing. None of that is fusion’s achievement alone. It is what becomes affordable in energy terms when firm clean power is abundant."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 300\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">Flows pointing the right way</text><circle cx=\"320\" cy=\"165\" r=\"72\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1.5\"/><path d=\"M270 165 q50 -55 100 0 q-50 55 -100 0\" fill=\"#7fa38a\" opacity=\"0.55\"/><text x=\"320\" y=\"200\" fill=\"#E8E4DA\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">biosphere</text><g><line x1=\"415\" y1=\"165\" x2=\"448\" y2=\"165\" stroke=\"#D4AD5C\" stroke-width=\"2\"/><polygon points=\"448,165 437,151 437,179\" fill=\"#D4AD5C\"/></g><g><line x1=\"367\" y1=\"247\" x2=\"383\" y2=\"276\" stroke=\"#D4AD5C\" stroke-width=\"2\"/><polygon points=\"383,276 390,259 366,273\" fill=\"#D4AD5C\"/></g><g><line x1=\"273\" y1=\"247\" x2=\"257\" y2=\"276\" stroke=\"#D4AD5C\" stroke-width=\"2\"/><polygon points=\"257,276 275,273 250,259\" fill=\"#D4AD5C\"/></g><g><line x1=\"226\" y1=\"165\" x2=\"193\" y2=\"165\" stroke=\"#D4AD5C\" stroke-width=\"2\"/><polygon points=\"193,165 203,179 203,152\" fill=\"#D4AD5C\"/></g><g><line x1=\"273\" y1=\"83\" x2=\"257\" y2=\"55\" stroke=\"#D4AD5C\" stroke-width=\"2\"/><polygon points=\"257,55 250,71 274,57\" fill=\"#D4AD5C\"/></g><g><line x1=\"367\" y1=\"83\" x2=\"384\" y2=\"55\" stroke=\"#D4AD5C\" stroke-width=\"2\"/><polygon points=\"384,55 366,57 391,71\" fill=\"#D4AD5C\"/></g></svg>"
+   ],
+   [
+    "h2",
+    "What repair needs"
+   ],
+   [
+    "ul",
+    [
+     "Energy for carbon removal at meaningful scale — see <a href=./restoring-the-carbon-balance.html>restoring the carbon balance</a>.",
+     "Energy for fresh water without draining rivers — see <a href=./water-abundance.html>water abundance</a>.",
+     "Land returned to nature as generation densifies — see <a href=./rewilding-and-land.html>rewilding and land</a>.",
+     "An end to the combustion that acidifies oceans and fouls air."
+    ]
+   ],
+   [
+    "h2",
+    "Honesty about the horizon"
+   ],
+   [
+    "p",
+    "This is a multi-decade picture and Kronos does not pretend otherwise. The machines are design studies; the first breeder is planned to start construction in Q2 2027; a recovering biosphere is the work of a generation beyond that. Naming the endgame is a way of aiming, not a way of claiming it is near."
+   ],
+   [
+    "p",
+    "The point is directional. If clean firm energy stops being scarce, ecological repair moves from something we cannot afford to something we can. That shift — from managed decline to active recovery — is the whole of the vision. Continue to <a href=./restoring-nature.html>restoring nature</a> and <a href=./energy-and-biodiversity.html>energy and biodiversity</a>."
+   ],
+   [
+    "p",
+    "Read alongside the closing synthesis, <a href=./the-endgame-a-balanced-world.html>a balanced world</a>."
+   ]
+  ],
+  "related": [
+   [
+    "restoring-the-carbon-balance",
+    "Restoring the Carbon Balance"
+   ],
+   [
+    "rewilding-and-land",
+    "Rewilding & Land"
+   ],
+   [
+    "energy-and-biodiversity",
+    "Energy & Biodiversity"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "the-firm-clean-pair",
+  "title": "The Firm-Clean Pair",
+  "cat": "the-vision",
+  "lede": "Fusion and renewables are complements, not rivals: variable sources do the bulk decarbonization, firm clean power closes the reliability gap.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "Two jobs, one grid"
+   ],
+   [
+    "p",
+    "A decarbonized grid has two distinct jobs. The first is producing enormous quantities of clean energy cheaply — the job wind and solar already do superbly and will keep doing. The second is being there at every hour regardless of weather — the job that variable sources, even with storage, do only up to a point. Treating these as one contest has produced a false choice."
+   ],
+   [
+    "p",
+    "Firm clean generation is built for the second job. It does not out-compete a solar farm at noon; it holds the grid up during the windless, sunless stretch that would otherwise be covered by gas. In that division of labor, more firm clean power means more renewables can be deployed, because their weak hours finally have a clean answer."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 250\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"28\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">Firm output fills the gaps variable sources leave</text><line x1=\"50\" y1=\"230\" x2=\"600\" y2=\"230\" stroke=\"#5b6472\"/><rect x=\"50\" y=\"150\" width=\"550\" height=\"80\" fill=\"#D4AD5C\" opacity=\"0.18\"/><text x=\"60\" y=\"200\" fill=\"#D4AD5C\" font-size=\"11\" font-family=\"sans-serif\">firm clean floor</text><path d=\"M50 150 C 120 70, 180 70, 240 150 C 300 220, 360 220, 420 150 C 480 80, 540 80, 600 150\" fill=\"#7fa38a\" opacity=\"0.35\" stroke=\"#7fa38a\" stroke-width=\"2\"/><text x=\"300\" y=\"60\" fill=\"#7fa38a\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">wind + solar (variable)</text></svg>"
+   ],
+   [
+    "h2",
+    "Why not just build more batteries"
+   ],
+   [
+    "p",
+    "Storage is essential and expands every year, but it shifts energy across hours, not comfortably across a still, overcast week. Covering rare long lulls with storage alone means building vast capacity that sits idle most of the time. Firm generation covers those lulls with a steady source instead, which is why serious decarbonization plans keep a firm clean component in the mix."
+   ],
+   [
+    "p",
+    "Kronos is designed to be that component. The intent is partnership with the renewable buildout, not competition with it."
+   ],
+   [
+    "h2",
+    "The boundary"
+   ],
+   [
+    "ul",
+    [
+     "This describes a role, not a delivered plant — the machines are still simulation studies.",
+     "The pairing benefit assumes firm output the designs target but have not yet demonstrated.",
+     "Renewables remain the low-cost bulk of a clean grid in this picture."
+    ]
+   ],
+   [
+    "p",
+    "See the resource case in <a href=./firm-power-for-a-renewable-grid.html>firm power for a renewable grid</a> and the demand side in <a href=./the-electrified-world.html>the electrified world</a>."
+   ]
+  ],
+  "related": [
+   [
+    "firm-power-for-a-renewable-grid",
+    "Firm Power for a Renewable Grid"
+   ],
+   [
+    "abundant-clean-energy",
+    "Abundant Clean Energy"
+   ],
+   [
+    "resilience-and-security",
+    "Resilience & Security"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "firm-power-for-a-renewable-grid",
+  "title": "Firm Power for a Renewable Grid",
+  "cat": "the-vision",
+  "lede": "The hardest part of a clean grid is the last increment of reliability; firm fusion is designed to supply exactly that.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "The reliability tail"
+   ],
+   [
+    "p",
+    "Getting a grid to a high share of clean energy is increasingly routine. Getting it to a fully clean, always-on grid runs into a stubborn tail: the small fraction of hours each year when demand is high and wind and solar are both low. That tail is disproportionately expensive to cover with variable sources and storage, and it is where fossil plants tend to survive."
+   ],
+   [
+    "p",
+    "Firm clean generation is the natural tool for the tail. Because it runs on demand rather than on weather, a relatively modest firm fleet can retire a much larger standby fossil fleet. The vision is a grid whose last dirty megawatt-hours are finally displaced."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 260\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"28\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">The reliability tail — few hours, outsized difficulty</text><line x1=\"60\" y1=\"220\" x2=\"600\" y2=\"220\" stroke=\"#5b6472\"/><line x1=\"60\" y1=\"60\" x2=\"60\" y2=\"220\" stroke=\"#5b6472\"/><path d=\"M60 90 C 200 90, 380 210, 600 218\" fill=\"none\" stroke=\"#7fa38a\" stroke-width=\"2.5\"/><rect x=\"500\" y=\"120\" width=\"100\" height=\"100\" fill=\"#D4AD5C\" opacity=\"0.2\"/><text x=\"550\" y=\"115\" fill=\"#D4AD5C\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">firm fills this</text><text x=\"330\" y=\"245\" fill=\"#8a93a3\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">hours of the year, sorted by renewable output →</text></svg>"
+   ],
+   [
+    "h2",
+    "Density and siting"
+   ],
+   [
+    "p",
+    "Firm generation is also compact. A plant that produces steady output from a small footprint can sit near load — a city, a port, a cluster of data centers — reducing the need for long new transmission lines across contested landscapes. The burner (Aegis / MetroVolt) is conceived for exactly this kind of sited, on-demand role."
+   ],
+   [
+    "p",
+    "Compactness is an environmental property in its own right: less land disturbed, fewer corridors cut, more of the map left to nature. See <a href=./rewilding-and-land.html>rewilding and land</a> for that thread."
+   ],
+   [
+    "h2",
+    "Caveats"
+   ],
+   [
+    "ul",
+    [
+     "The tail-filling role is a design intent, not a proven capability today.",
+     "First breeder construction is planned for Q2 2027; burner testing is later.",
+     "Renewables plus storage still do most of the work; firm power closes the gap."
+    ]
+   ],
+   [
+    "p",
+    "Continue to <a href=./the-firm-clean-pair.html>the firm-clean pair</a> and <a href=./resilience-and-security.html>resilience and security</a>."
+   ]
+  ],
+  "related": [
+   [
+    "the-firm-clean-pair",
+    "The Firm-Clean Pair"
+   ],
+   [
+    "resilience-and-security",
+    "Resilience & Security"
+   ],
+   [
+    "the-electrified-world",
+    "The Electrified World"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "energy-and-the-good-life",
+  "title": "Energy and the Good Life",
+  "cat": "the-vision",
+  "lede": "Abundant clean power is not an end in itself; it is what lets people live well and live closer to nature at the same time.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "What energy is for"
+   ],
+   [
+    "p",
+    "It is easy to talk about megawatts and forget what they are for. Energy is comfortable homes, preserved food, clean water from a tap, a hospital that never loses power, a child studying after dark, mobility that does not choke a city in smog. The good life, for most of human history, has been rationed by how much clean energy a society could muster."
+   ],
+   [
+    "p",
+    "The vision is not more consumption for its own sake. It is decoupling well-being from harm: the same warmth, light, water, and mobility, delivered without the emissions and pollution that have always come attached. When the energy is clean and firm, raising the floor of everyday life stops meaning raising the ecological toll."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 260\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">Well-being, decoupled from harm</text><g><circle cx=\"110\" cy=\"150\" r=\"42\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1.4\"/><text x=\"110\" y=\"155\" fill=\"#E8E4DA\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">warmth</text></g><g><circle cx=\"250\" cy=\"150\" r=\"42\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1.4\"/><text x=\"250\" y=\"155\" fill=\"#E8E4DA\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">water</text></g><g><circle cx=\"390\" cy=\"150\" r=\"42\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1.4\"/><text x=\"390\" y=\"155\" fill=\"#E8E4DA\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">health</text></g><g><circle cx=\"530\" cy=\"150\" r=\"42\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1.4\"/><text x=\"530\" y=\"155\" fill=\"#E8E4DA\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">learning</text></g><text x=\"320\" y=\"230\" fill=\"#8a93a3\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">delivered without the emissions once attached</text></svg>"
+   ],
+   [
+    "h2",
+    "Closer to nature, not further from it"
+   ],
+   [
+    "p",
+    "A common assumption is that a high-energy society must be a paved-over one. The opposite is possible. Compact firm generation, electrified transport, and clean industry free up land and clear the air, making it easier to live among green space rather than apart from it. Cities that breathe, rivers left in their channels, quiet streets — these are energy outcomes as much as design ones."
+   ],
+   [
+    "p",
+    "This is the human center of the vision: technology in service of an unhurried, healthier daily life, on a planet that is recovering rather than declining."
+   ],
+   [
+    "h2",
+    "Kept honest"
+   ],
+   [
+    "ul",
+    [
+     "This is an aspiration about outcomes, not a claim any plant delivers it today.",
+     "The machines are simulation studies; the timeline is generational.",
+     "No economic claims are made or implied here."
+    ]
+   ],
+   [
+    "p",
+    "See the everyday version in <a href=./a-day-in-2050.html>a day in 2050</a> and the urban thread in <a href=./cities-that-breathe.html>cities that breathe</a>."
+   ]
+  ],
+  "related": [
+   [
+    "a-day-in-2050",
+    "A Day in 2050"
+   ],
+   [
+    "cities-that-breathe",
+    "Cities That Breathe"
+   ],
+   [
+    "energy-for-everyone",
+    "Energy for Everyone"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "water-abundance",
+  "title": "Water Abundance",
+  "cat": "the-vision",
+  "lede": "Fresh water is scarce mainly because making it costs energy; abundant clean power turns desalination and reuse from last resorts into everyday tools.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "Water is an energy problem"
+   ],
+   [
+    "p",
+    "Two-thirds of the planet is water, yet fresh water is one of the most contested resources on Earth. The reason is energy: desalinating seawater, recycling wastewater, and moving water uphill to where people live all take power. Where power is scarce or dirty, clean water is rationed, rivers are over-drawn, and aquifers are mined faster than they refill."
+   ],
+   [
+    "p",
+    "With abundant clean firm energy, that constraint loosens. Coastal desalination and inland water reuse become routine rather than emergency measures, so cities can be supplied without draining the rivers and wetlands that ecosystems depend on. The vision is water security that does not come at nature’s expense."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 260\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">Clean energy → fresh water without draining rivers</text><path d=\"M40 200 q30 -20 60 0 t60 0 t60 0\" fill=\"none\" stroke=\"#4a90c2\" stroke-width=\"3\"/><text x=\"130\" y=\"235\" fill=\"#8a93a3\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">seawater</text><rect x=\"250\" y=\"150\" width=\"140\" height=\"70\" rx=\"8\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1.5\"/><text x=\"320\" y=\"185\" fill=\"#D4AD5C\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">desalination</text><text x=\"320\" y=\"203\" fill=\"#8a93a3\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">powered cleanly</text><path d=\"M470 185 h90\" stroke=\"#7fa38a\" stroke-width=\"3\"/><polygon points=\"560,179 560,191 572,185\" fill=\"#7fa38a\"/><text x=\"530\" y=\"215\" fill=\"#7fa38a\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">fresh water</text><line x1=\"320\" y1=\"70\" x2=\"320\" y2=\"145\" stroke=\"#D4AD5C\" stroke-width=\"2\"/><polygon points=\"314,140 326,140 320,150\" fill=\"#D4AD5C\"/><text x=\"320\" y=\"60\" fill=\"#D4AD5C\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">clean firm power</text></svg>"
+   ],
+   [
+    "h2",
+    "A note on the plant itself"
+   ],
+   [
+    "p",
+    "There is a second water angle worth stating plainly. Because the burner uses direct energy conversion rather than a steam cycle, it is designed to need very little cooling water — unlike thermal plants that evaporate large volumes. The safety-case section covers this in detail; the vision simply notes that clean-water abundance should not be undercut by thirsty generation."
+   ],
+   [
+    "h2",
+    "Boundaries"
+   ],
+   [
+    "ul",
+    [
+     "The abundance case is contingent on clean energy at scale, still to be proven.",
+     "Desalination has its own siting and brine-management considerations, handled elsewhere.",
+     "No cost claims are made — only the energy dependency is described."
+    ]
+   ],
+   [
+    "p",
+    "See the plant-water case under the safety section, and the ecological payoff in <a href=./oceans-and-fusion.html>oceans and fusion</a>."
+   ]
+  ],
+  "related": [
+   [
+    "oceans-and-fusion",
+    "Oceans & Fusion"
+   ],
+   [
+    "restoring-the-carbon-balance",
+    "Restoring the Carbon Balance"
+   ],
+   [
+    "energy-for-everyone",
+    "Energy for Everyone"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "clean-air-cities",
+  "title": "Clean-Air Cities",
+  "cat": "the-vision",
+  "lede": "Most urban air pollution is combustion; replacing the burning with clean electricity clears the air people breathe every day.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "The air is made of choices"
+   ],
+   [
+    "p",
+    "Smog, soot, and the fine particulate that shortens millions of lives each year are not natural facts. They are the exhaust of burning things — fuel in engines, gas in boilers, coal and gas in power plants. Every one of those combustion sources has a clean electric alternative, and the barrier to switching has been the supply of clean, firm, affordable electricity."
+   ],
+   [
+    "p",
+    "In the vision, cities run on that supply. Vehicles are electric, buildings are heated with clean electricity, and the power itself carries no smokestack. The immediate reward is not abstract: it is air that is safe to breathe, skies that are clear, and a measurable fall in respiratory and cardiovascular disease."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 250\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">From combustion haze to clear skies</text><rect x=\"40\" y=\"60\" width=\"270\" height=\"170\" fill=\"#3a3f47\" opacity=\"0.6\"/><text x=\"175\" y=\"50\" fill=\"#8a93a3\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">combustion city</text><rect x=\"55\" y=\"130\" width=\"26\" height=\"100\" fill=\"#232C39\" stroke=\"#5b6472\"/><rect x=\"95\" y=\"100\" width=\"26\" height=\"130\" fill=\"#232C39\" stroke=\"#5b6472\"/><rect x=\"135\" y=\"140\" width=\"26\" height=\"90\" fill=\"#232C39\" stroke=\"#5b6472\"/><rect x=\"175\" y=\"110\" width=\"26\" height=\"120\" fill=\"#232C39\" stroke=\"#5b6472\"/><rect x=\"215\" y=\"120\" width=\"26\" height=\"110\" fill=\"#232C39\" stroke=\"#5b6472\"/><rect x=\"255\" y=\"135\" width=\"26\" height=\"95\" fill=\"#232C39\" stroke=\"#5b6472\"/><circle cx=\"120\" cy=\"90\" r=\"10\" fill=\"#8a93a3\" opacity=\"0.5\"/><circle cx=\"180\" cy=\"80\" r=\"14\" fill=\"#8a93a3\" opacity=\"0.4\"/><rect x=\"330\" y=\"60\" width=\"270\" height=\"170\" fill=\"#1b2029\"/><text x=\"465\" y=\"50\" fill=\"#7fa38a\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">electric city</text><rect x=\"345\" y=\"130\" width=\"26\" height=\"100\" fill=\"#232C39\" stroke=\"#D4AD5C\"/><rect x=\"385\" y=\"100\" width=\"26\" height=\"130\" fill=\"#232C39\" stroke=\"#D4AD5C\"/><rect x=\"425\" y=\"140\" width=\"26\" height=\"90\" fill=\"#232C39\" stroke=\"#D4AD5C\"/><rect x=\"465\" y=\"110\" width=\"26\" height=\"120\" fill=\"#232C39\" stroke=\"#D4AD5C\"/><rect x=\"505\" y=\"120\" width=\"26\" height=\"110\" fill=\"#232C39\" stroke=\"#D4AD5C\"/><rect x=\"545\" y=\"135\" width=\"26\" height=\"95\" fill=\"#232C39\" stroke=\"#D4AD5C\"/><circle cx=\"560\" cy=\"85\" r=\"14\" fill=\"#D4AD5C\" opacity=\"0.85\"/></svg>"
+   ],
+   [
+    "h2",
+    "Quiet as a bonus"
+   ],
+   [
+    "p",
+    "Electrification changes more than the air. Combustion engines are loud; electric drivetrains and clean generation are not. A city that stops burning is also a city that stops roaring — calmer streets are part of the same shift, at no extra effort."
+   ],
+   [
+    "h2",
+    "What this rests on"
+   ],
+   [
+    "ul",
+    [
+     "Clean, firm electricity available where cities need it — the role Kronos is designed for.",
+     "This is an outcome of electrification broadly, not of any single plant.",
+     "The machines are simulation studies today; the benefit is prospective."
+    ]
+   ],
+   [
+    "p",
+    "See the human side in <a href=./energy-and-the-good-life.html>energy and the good life</a> and the systemic shift in <a href=./the-post-combustion-era.html>the post-combustion era</a>."
+   ]
+  ],
+  "related": [
+   [
+    "the-post-combustion-era",
+    "The Post-Combustion Era"
+   ],
+   [
+    "cities-that-breathe",
+    "Cities That Breathe"
+   ],
+   [
+    "energy-without-emissions",
+    "Energy Without Emissions"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "restoring-the-carbon-balance",
+  "title": "Restoring the Carbon Balance",
+  "cat": "the-vision",
+  "lede": "Cutting emissions to zero stops the problem growing; abundant clean energy is what makes pulling legacy carbon back out affordable in energy terms.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "Two tasks, not one"
+   ],
+   [
+    "p",
+    "Stabilizing the climate involves two separate tasks. The first is stopping new emissions — the decarbonization already underway. The second is drawing down the carbon already in the atmosphere from a century of burning. The second task is often left out because it is energy-intensive: capturing dilute carbon dioxide from the air and fixing it takes real power."
+   ],
+   [
+    "p",
+    "On a fossil grid, running carbon removal is self-defeating. On an abundant clean grid, it becomes a legitimate tool — clean energy spent to reverse damage rather than to cause it. The vision includes this drawdown phase, not as fusion’s achievement alone but as something abundant firm power makes feasible."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 230\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">Two tasks: stop emitting, then draw down</text><line x1=\"60\" y1=\"180\" x2=\"600\" y2=\"180\" stroke=\"#5b6472\"/><path d=\"M60 90 C 180 95, 260 150, 340 175\" fill=\"none\" stroke=\"#c27f7f\" stroke-width=\"2.5\"/><text x=\"150\" y=\"80\" fill=\"#c27f7f\" font-size=\"11\" font-family=\"sans-serif\">emissions falling</text><path d=\"M340 175 C 430 178, 520 150, 600 110\" fill=\"none\" stroke=\"#D4AD5C\" stroke-width=\"2.5\"/><text x=\"470\" y=\"130\" fill=\"#D4AD5C\" font-size=\"11\" font-family=\"sans-serif\">active drawdown</text><circle cx=\"340\" cy=\"175\" r=\"4\" fill=\"#E8E4DA\"/><text x=\"340\" y=\"205\" fill=\"#8a93a3\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">net zero</text></svg>"
+   ],
+   [
+    "h2",
+    "Where the energy goes"
+   ],
+   [
+    "ul",
+    [
+     "Direct air capture of carbon dioxide — energy-hungry, only clean if the power is clean.",
+     "Turning captured carbon into stable, storable forms.",
+     "Reforestation and soil restoration, supported by clean water and machinery.",
+     "Clean industrial processes that stop adding to the burden in the first place."
+    ]
+   ],
+   [
+    "h2",
+    "Discipline about claims"
+   ],
+   [
+    "p",
+    "Carbon drawdown at planetary scale is an enormous undertaking and Kronos claims no special role in the capture technology itself. The honest statement is narrow: removal is bounded by clean energy supply, and firm clean generation raises that bound. Whether and how fast humanity uses the headroom is a societal choice, not a technical guarantee."
+   ],
+   [
+    "p",
+    "The machines remain simulation studies; the drawdown era is a later chapter of the same story. Continue to <a href=./the-healed-planet.html>the healed planet</a> and <a href=./industry-without-smoke.html>industry without smoke</a>."
+   ]
+  ],
+  "related": [
+   [
+    "the-healed-planet",
+    "The Healed Planet"
+   ],
+   [
+    "industry-without-smoke",
+    "Industry Without Smoke"
+   ],
+   [
+    "restoring-nature",
+    "Restoring Nature"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "energy-for-everyone",
+  "title": "Energy for Everyone",
+  "cat": "the-vision",
+  "lede": "A billion people still lack reliable electricity; compact firm clean generation could extend modern energy without repeating the fossil path.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "The access gap"
+   ],
+   [
+    "p",
+    "Reliable electricity is the quiet prerequisite for health, education, and opportunity, and hundreds of millions of people still live without it or with an unreliable supply. Historically, closing that gap meant building fossil infrastructure — the same path the industrialized world took, with the same emissions and pollution attached."
+   ],
+   [
+    "p",
+    "The vision is a different path for the still-electrifying world: clean firm power that does not lock in decades of emissions. Compact generation that can be sited near where people live, paired with the falling cost of renewables, could bring modern energy without repeating the mistakes that got the atmosphere into trouble."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 245\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">Extending modern energy, skipping the fossil path</text><line x1=\"60\" y1=\"210\" x2=\"600\" y2=\"210\" stroke=\"#5b6472\"/><path d=\"M60 200 C 200 120, 300 100, 600 90\" fill=\"none\" stroke=\"#c27f7f\" stroke-width=\"2\" stroke-dasharray=\"6 5\"/><text x=\"430\" y=\"80\" fill=\"#c27f7f\" font-size=\"10\" font-family=\"sans-serif\">old path (fossil)</text><path d=\"M60 200 C 220 190, 320 140, 600 95\" fill=\"none\" stroke=\"#D4AD5C\" stroke-width=\"2.5\"/><text x=\"200\" y=\"160\" fill=\"#D4AD5C\" font-size=\"10\" font-family=\"sans-serif\">clean path</text><text x=\"330\" y=\"230\" fill=\"#8a93a3\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">access → same destination, cleaner route</text></svg>"
+   ],
+   [
+    "h2",
+    "Why firm matters here too"
+   ],
+   [
+    "p",
+    "Access is not just a wire; it is a wire that works at night and in still weather. Firm clean generation makes a small grid dependable, which is what turns electricity from a novelty into a foundation for clinics, schools, and workshops. The reliability that firm power brings is arguably more valuable in an emerging grid than in a mature one."
+   ],
+   [
+    "h2",
+    "Stated honestly"
+   ],
+   [
+    "ul",
+    [
+     "This is a direction, not a deployment plan — the machines are simulation studies.",
+     "Equitable access depends on choices far beyond any single technology.",
+     "No economic claims are made about affordability here."
+    ]
+   ],
+   [
+    "p",
+    "Related: <a href=./from-scarcity-to-abundance.html>from scarcity to abundance</a> and <a href=./resilience-and-security.html>resilience and security</a>."
+   ]
+  ],
+  "related": [
+   [
+    "from-scarcity-to-abundance",
+    "From Scarcity to Abundance"
+   ],
+   [
+    "resilience-and-security",
+    "Resilience & Security"
+   ],
+   [
+    "energy-and-the-good-life",
+    "Energy and the Good Life"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "the-long-horizon",
+  "title": "The Long Horizon",
+  "cat": "the-vision",
+  "lede": "This is a hundred-year project stated honestly: near-term steps that are concrete, a far endgame that is aspirational, and no pretense that they are the same thing.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "Different claims for different distances"
+   ],
+   [
+    "p",
+    "One reason visions lose credibility is that they collapse near and far into a single breathless promise. Kronos keeps them separate. The near term is a set of engineering milestones with dates and conditions. The far term is a picture of the world those milestones aim at. The first is a plan; the second is a direction."
+   ],
+   [
+    "p",
+    "Near term, the concrete facts are these: the machines are design and simulation studies today; construction of the first breeder is planned to begin in Q2 2027; first-of-a-kind first tritium is targeted around 2030; and no hardware net-gain is claimed before that. Everything beyond — fleets, abundance, a healed planet — is explicitly the long horizon."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 210\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">Concrete near term, aspirational far term</text><line x1=\"50\" y1=\"150\" x2=\"600\" y2=\"150\" stroke=\"#5b6472\" stroke-width=\"1.2\"/><g><circle cx=\"120\" cy=\"150\" r=\"5\" fill=\"#D4AD5C\"/><text x=\"120\" y=\"135\" fill=\"#E8E4DA\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">2027</text><text x=\"120\" y=\"178\" fill=\"#8a93a3\" font-size=\"9\" text-anchor=\"middle\" font-family=\"sans-serif\">construction</text></g><g><circle cx=\"260\" cy=\"150\" r=\"5\" fill=\"#D4AD5C\"/><text x=\"260\" y=\"135\" fill=\"#E8E4DA\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">~2030</text><text x=\"260\" y=\"178\" fill=\"#8a93a3\" font-size=\"9\" text-anchor=\"middle\" font-family=\"sans-serif\">first tritium</text></g><g><circle cx=\"400\" cy=\"150\" r=\"5\" fill=\"#D4AD5C\"/><text x=\"400\" y=\"135\" fill=\"#E8E4DA\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">beyond</text><text x=\"400\" y=\"178\" fill=\"#8a93a3\" font-size=\"9\" text-anchor=\"middle\" font-family=\"sans-serif\">fleets</text></g><rect x=\"470\" y=\"120\" width=\"130\" height=\"60\" fill=\"#D4AD5C\" opacity=\"0.14\"/><text x=\"535\" y=\"145\" fill=\"#D4AD5C\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">long horizon:</text><text x=\"535\" y=\"162\" fill=\"#8a93a3\" font-size=\"9\" text-anchor=\"middle\" font-family=\"sans-serif\">abundance, repair</text></svg>"
+   ],
+   [
+    "h2",
+    "Why the far term still belongs on the page"
+   ],
+   [
+    "p",
+    "If only the milestones are stated, the work looks like an end in itself. The endgame explains why the milestones are worth the effort. Holding both — rigor about the next step, clarity about the destination — is how an ambitious project stays honest. The far term earns its place precisely because it is labeled as far."
+   ],
+   [
+    "h2",
+    "The discipline"
+   ],
+   [
+    "ul",
+    [
+     "Near-term claims carry dates and conditions and can be checked.",
+     "Far-term claims are labeled vision and make no performance promise.",
+     "No economics appear at either horizon."
+    ]
+   ],
+   [
+    "p",
+    "See what we deliberately do not claim in <a href=./honest-vision-what-we-dont-claim.html>what we don’t claim</a>, and the human scale in <a href=./the-generational-project.html>the generational project</a>."
+   ]
+  ],
+  "related": [
+   [
+    "honest-vision-what-we-dont-claim",
+    "What We Don’t Claim"
+   ],
+   [
+    "the-generational-project",
+    "The Generational Project"
+   ],
+   [
+    "the-endgame-a-balanced-world",
+    "A Balanced World"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "fusion-and-space",
+  "title": "Fusion and the Reach into Space",
+  "cat": "the-vision",
+  "lede": "The same fuels and physics that power a clean planet also point outward — helium-3, deep-space power, and a lunar link that closes back onto Earth.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "An outward-facing fuel"
+   ],
+   [
+    "p",
+    "The burner runs on deuterium and helium-3. Helium-3 is rare on Earth but comparatively abundant in the lunar regolith, which is why fusion and space exploration have long been linked in serious long-range thinking. In the vision, that link runs both ways: space capability helps supply fusion fuel, and fusion helps power the reach into space."
+   ],
+   [
+    "p",
+    "The breeder (Hyperion) is relevant here too. Among its designed products is helium-3 at roughly 1.97 kg/yr class output, alongside its tritium-class production. A terrestrial helium-3 source and a lunar one are complementary parts of the same long-horizon fuel picture."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 250\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">A fuel loop that reaches the Moon</text><circle cx=\"150\" cy=\"160\" r=\"48\" fill=\"#2c4a6e\" stroke=\"#4a90c2\" stroke-width=\"1.5\"/><text x=\"150\" y=\"165\" fill=\"#E8E4DA\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">Earth</text><circle cx=\"490\" cy=\"120\" r=\"26\" fill=\"#3a3f47\" stroke=\"#D4AD5C\" stroke-width=\"1.5\"/><text x=\"490\" y=\"124\" fill=\"#D4AD5C\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">Moon</text><path d=\"M200 150 Q 340 80 466 118\" fill=\"none\" stroke=\"#D4AD5C\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><text x=\"330\" y=\"100\" fill=\"#D4AD5C\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">helium-3</text><path d=\"M466 135 Q 340 200 200 175\" fill=\"none\" stroke=\"#7fa38a\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/><text x=\"330\" y=\"205\" fill=\"#7fa38a\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">clean power + capability</text></svg>"
+   ],
+   [
+    "h2",
+    "Power for the journey"
+   ],
+   [
+    "p",
+    "Beyond fuel, compact fusion has long been imagined as a power and propulsion source for deep-space missions, where sunlight is weak and chemical fuel is heavy. That application sits far out on the horizon and Kronos makes no near-term claim about it. It is named here because it is part of why the physics matters beyond the grid."
+   ],
+   [
+    "h2",
+    "Held at arm’s length"
+   ],
+   [
+    "ul",
+    [
+     "The helium-3 numbers are frozen breeder design figures, not delivered output.",
+     "A lunar fuel supply chain is a multi-decade proposition well beyond current work.",
+     "Deep-space propulsion is illustrative of scope, not a Kronos product."
+    ]
+   ],
+   [
+    "p",
+    "See the terrestrial fuel case in <a href=./the-fuel-that-doesnt-run-out.html>the fuel that doesn’t run out</a> and the medical side in <a href=./energy-for-medicine.html>energy for medicine</a>."
+   ]
+  ],
+  "related": [
+   [
+    "the-fuel-that-doesnt-run-out",
+    "The Fuel That Doesn’t Run Out"
+   ],
+   [
+    "energy-for-medicine",
+    "Energy for Medicine"
+   ],
+   [
+    "computing-and-discovery",
+    "Computing & Discovery"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "rewilding-and-land",
+  "title": "Rewilding and Land",
+  "cat": "the-vision",
+  "lede": "Compact generation returns land to nature: the smaller the footprint of power, the more of the map can be left wild.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "Every energy source has a footprint"
+   ],
+   [
+    "p",
+    "Land is a finite resource that agriculture, cities, and energy all compete for. Fossil extraction scars it; even clean sources use space — solar farms and wind arrays trade a large area for their clean output. That trade is worthwhile, but it makes compactness a genuine environmental virtue for the firm component of the mix."
+   ],
+   [
+    "p",
+    "Firm fusion is designed to produce steady output from a small footprint. In the vision, dense clean generation sited near demand means fewer landscapes converted and fewer transmission corridors cut. The land not needed for energy is land that can be returned to forest, wetland, and habitat."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 260\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">A small footprint leaves more map for nature</text><rect x=\"60\" y=\"60\" width=\"230\" height=\"170\" fill=\"#1b2029\" stroke=\"#5b6472\"/><rect x=\"130\" y=\"130\" width=\"30\" height=\"30\" fill=\"#D4AD5C\"/><text x=\"175\" y=\"248\" fill=\"#8a93a3\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">firm plant — small footprint</text><circle cx=\"80\" cy=\"80\" r=\"7\" fill=\"#7fa38a\" opacity=\"0.55\"/><circle cx=\"117\" cy=\"133\" r=\"7\" fill=\"#7fa38a\" opacity=\"0.55\"/><circle cx=\"154\" cy=\"186\" r=\"7\" fill=\"#7fa38a\" opacity=\"0.55\"/><circle cx=\"191\" cy=\"99\" r=\"7\" fill=\"#7fa38a\" opacity=\"0.55\"/><circle cx=\"228\" cy=\"152\" r=\"7\" fill=\"#7fa38a\" opacity=\"0.55\"/><circle cx=\"265\" cy=\"205\" r=\"7\" fill=\"#7fa38a\" opacity=\"0.55\"/><circle cx=\"92\" cy=\"118\" r=\"7\" fill=\"#7fa38a\" opacity=\"0.55\"/><circle cx=\"129\" cy=\"171\" r=\"7\" fill=\"#7fa38a\" opacity=\"0.55\"/><circle cx=\"166\" cy=\"84\" r=\"7\" fill=\"#7fa38a\" opacity=\"0.55\"/><circle cx=\"203\" cy=\"137\" r=\"7\" fill=\"#7fa38a\" opacity=\"0.55\"/><circle cx=\"240\" cy=\"190\" r=\"7\" fill=\"#7fa38a\" opacity=\"0.55\"/><circle cx=\"277\" cy=\"103\" r=\"7\" fill=\"#7fa38a\" opacity=\"0.55\"/><circle cx=\"104\" cy=\"156\" r=\"7\" fill=\"#7fa38a\" opacity=\"0.55\"/><circle cx=\"141\" cy=\"209\" r=\"7\" fill=\"#7fa38a\" opacity=\"0.55\"/><circle cx=\"178\" cy=\"122\" r=\"7\" fill=\"#7fa38a\" opacity=\"0.55\"/><circle cx=\"215\" cy=\"175\" r=\"7\" fill=\"#7fa38a\" opacity=\"0.55\"/><circle cx=\"252\" cy=\"88\" r=\"7\" fill=\"#7fa38a\" opacity=\"0.55\"/><circle cx=\"289\" cy=\"141\" r=\"7\" fill=\"#7fa38a\" opacity=\"0.55\"/><rect x=\"350\" y=\"60\" width=\"230\" height=\"170\" fill=\"#1b2029\" stroke=\"#5b6472\"/><rect x=\"360\" y=\"70\" width=\"30\" height=\"30\" fill=\"#3a3f47\" stroke=\"#5b6472\"/><rect x=\"397\" y=\"70\" width=\"30\" height=\"30\" fill=\"#3a3f47\" stroke=\"#5b6472\"/><rect x=\"434\" y=\"70\" width=\"30\" height=\"30\" fill=\"#3a3f47\" stroke=\"#5b6472\"/><rect x=\"471\" y=\"70\" width=\"30\" height=\"30\" fill=\"#3a3f47\" stroke=\"#5b6472\"/><rect x=\"508\" y=\"70\" width=\"30\" height=\"30\" fill=\"#3a3f47\" stroke=\"#5b6472\"/><rect x=\"545\" y=\"70\" width=\"30\" height=\"30\" fill=\"#3a3f47\" stroke=\"#5b6472\"/><rect x=\"360\" y=\"108\" width=\"30\" height=\"30\" fill=\"#3a3f47\" stroke=\"#5b6472\"/><rect x=\"397\" y=\"108\" width=\"30\" height=\"30\" fill=\"#3a3f47\" stroke=\"#5b6472\"/><rect x=\"434\" y=\"108\" width=\"30\" height=\"30\" fill=\"#3a3f47\" stroke=\"#5b6472\"/><rect x=\"471\" y=\"108\" width=\"30\" height=\"30\" fill=\"#3a3f47\" stroke=\"#5b6472\"/><rect x=\"508\" y=\"108\" width=\"30\" height=\"30\" fill=\"#3a3f47\" stroke=\"#5b6472\"/><rect x=\"545\" y=\"108\" width=\"30\" height=\"30\" fill=\"#3a3f47\" stroke=\"#5b6472\"/><rect x=\"360\" y=\"146\" width=\"30\" height=\"30\" fill=\"#3a3f47\" stroke=\"#5b6472\"/><rect x=\"397\" y=\"146\" width=\"30\" height=\"30\" fill=\"#3a3f47\" stroke=\"#5b6472\"/><rect x=\"434\" y=\"146\" width=\"30\" height=\"30\" fill=\"#3a3f47\" stroke=\"#5b6472\"/><rect x=\"471\" y=\"146\" width=\"30\" height=\"30\" fill=\"#3a3f47\" stroke=\"#5b6472\"/><rect x=\"508\" y=\"146\" width=\"30\" height=\"30\" fill=\"#3a3f47\" stroke=\"#5b6472\"/><rect x=\"545\" y=\"146\" width=\"30\" height=\"30\" fill=\"#3a3f47\" stroke=\"#5b6472\"/><text x=\"465\" y=\"248\" fill=\"#8a93a3\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">same output, dispersed footprint</text></svg>"
+   ],
+   [
+    "h2",
+    "Land as an active choice"
+   ],
+   [
+    "p",
+    "The point is not that renewables use too much land — they remain essential — but that a firm, compact partner lets the whole system meet demand with less total area disturbed. Freed land is not automatically rewilded; that is a decision societies make. The technology creates the option; people choose whether to take it."
+   ],
+   [
+    "h2",
+    "Boundaries"
+   ],
+   [
+    "ul",
+    [
+     "Compactness is a design property, not yet a measured plant footprint.",
+     "Rewilding is a policy and land-use choice, not a technical outcome.",
+     "Renewables’ land use is a fair trade, not a fault."
+    ]
+   ],
+   [
+    "p",
+    "Continue to <a href=./energy-and-biodiversity.html>energy and biodiversity</a> and <a href=./restoring-nature.html>restoring nature</a>."
+   ]
+  ],
+  "related": [
+   [
+    "energy-and-biodiversity",
+    "Energy & Biodiversity"
+   ],
+   [
+    "restoring-nature",
+    "Restoring Nature"
+   ],
+   [
+    "firm-power-for-a-renewable-grid",
+    "Firm Power for a Renewable Grid"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "the-electrified-world",
+  "title": "The Electrified World",
+  "cat": "the-vision",
+  "lede": "The cleanest path for most of the economy is to electrify it and make the electricity clean; abundant firm power is what makes that switch complete.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "Electrify, then clean the electrons"
+   ],
+   [
+    "p",
+    "The decarbonization strategy that keeps proving out is simple to name: move transport, heating, and as much industry as possible from burning fuel to running on electricity, and make that electricity clean. Electric systems are efficient and controllable, and once the grid is clean, everything plugged into it becomes clean at a stroke."
+   ],
+   [
+    "p",
+    "The limit on this strategy has always been the supply of clean, firm electricity to plug into. As loads that used to burn fuel move onto the grid, demand rises sharply, and only a clean firm supply can meet it without reopening the emissions gap. That is the role fusion is designed to add."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 260\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">Loads moving from combustion onto a clean grid</text><circle cx=\"320\" cy=\"150\" r=\"42\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1.8\"/><text x=\"320\" y=\"155\" fill=\"#D4AD5C\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">clean grid</text><g><rect x=\"82\" y=\"64\" width=\"76\" height=\"32\" rx=\"6\" fill=\"#1b2029\" stroke=\"#7fa38a\"/><text x=\"120\" y=\"85\" fill=\"#E8E4DA\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">transport</text><line x1=\"120\" y1=\"96\" x2=\"320\" y2=\"150\" stroke=\"#5b6472\" stroke-width=\"1\"/></g><g><rect x=\"482\" y=\"64\" width=\"76\" height=\"32\" rx=\"6\" fill=\"#1b2029\" stroke=\"#7fa38a\"/><text x=\"520\" y=\"85\" fill=\"#E8E4DA\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">heating</text><line x1=\"520\" y1=\"96\" x2=\"320\" y2=\"150\" stroke=\"#5b6472\" stroke-width=\"1\"/></g><g><rect x=\"82\" y=\"204\" width=\"76\" height=\"32\" rx=\"6\" fill=\"#1b2029\" stroke=\"#7fa38a\"/><text x=\"120\" y=\"225\" fill=\"#E8E4DA\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">industry</text><line x1=\"120\" y1=\"204\" x2=\"320\" y2=\"150\" stroke=\"#5b6472\" stroke-width=\"1\"/></g><g><rect x=\"482\" y=\"204\" width=\"76\" height=\"32\" rx=\"6\" fill=\"#1b2029\" stroke=\"#7fa38a\"/><text x=\"520\" y=\"225\" fill=\"#E8E4DA\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">buildings</text><line x1=\"520\" y1=\"204\" x2=\"320\" y2=\"150\" stroke=\"#5b6472\" stroke-width=\"1\"/></g></svg>"
+   ],
+   [
+    "h2",
+    "Not everything electrifies easily"
+   ],
+   [
+    "p",
+    "Some processes — certain high-temperature industry, some long-haul and heavy transport — are hard to electrify directly. For those, clean electricity can make clean fuels: hydrogen and its derivatives, produced without fossil inputs. This keeps the strategy general: electrify what you can, and make clean molecules for the rest."
+   ],
+   [
+    "h2",
+    "The honest edge"
+   ],
+   [
+    "ul",
+    [
+     "Complete electrification is a systems outcome, not a single plant’s doing.",
+     "The firm clean supply it needs is what Kronos is designed to help provide, still in study.",
+     "No cost or affordability claims are made."
+    ]
+   ],
+   [
+    "p",
+    "See the demanding-loads case in <a href=./powering-advanced-ai.html>powering advanced intelligence</a> and clean fuels in <a href=./industry-without-smoke.html>industry without smoke</a>."
+   ]
+  ],
+  "related": [
+   [
+    "industry-without-smoke",
+    "Industry Without Smoke"
+   ],
+   [
+    "powering-advanced-ai",
+    "Powering Advanced Intelligence"
+   ],
+   [
+    "clean-air-cities",
+    "Clean-Air Cities"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "industry-without-smoke",
+  "title": "Industry Without Smoke",
+  "cat": "the-vision",
+  "lede": "Heavy industry runs on high-temperature heat that has meant combustion; clean electricity and clean fuels can supply that heat without the smokestack.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "The hard-to-abate core"
+   ],
+   [
+    "p",
+    "Steel, cement, chemicals, and glass are the backbone of the built world and among the hardest sectors to decarbonize, because they need intense, sustained heat that has traditionally come from burning coal and gas. This is the industrial core that many climate plans treat as a stubborn remainder."
+   ],
+   [
+    "p",
+    "Abundant clean firm power changes what is feasible. Electric furnaces, clean hydrogen for chemical reduction, and process heat from clean electricity can each displace combustion in parts of this core. None is trivial, and each is energy-hungry — which is exactly why they wait on a clean firm supply large enough to feed them."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 245\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">Industrial heat, without the smokestack</text><rect x=\"70\" y=\"90\" width=\"140\" height=\"130\" rx=\"6\" fill=\"#1b2029\" stroke=\"#5b6472\"/><rect x=\"120\" y=\"55\" width=\"24\" height=\"40\" fill=\"#3a3f47\"/><circle cx=\"132\" cy=\"48\" r=\"10\" fill=\"#8a93a3\" opacity=\"0.4\"/><text x=\"140\" y=\"165\" fill=\"#8a93a3\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">combustion furnace</text><path d=\"M230 150 h60\" stroke=\"#D4AD5C\" stroke-width=\"2.5\"/><polygon points=\"290,144 290,156 302,150\" fill=\"#D4AD5C\"/><rect x=\"320\" y=\"90\" width=\"240\" height=\"130\" rx=\"6\" fill=\"#232C39\" stroke=\"#D4AD5C\"/><text x=\"440\" y=\"145\" fill=\"#D4AD5C\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">electric + clean-fuel heat</text><text x=\"440\" y=\"167\" fill=\"#8a93a3\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">no exhaust plume</text></svg>"
+   ],
+   [
+    "h2",
+    "Clean molecules from clean electrons"
+   ],
+   [
+    "p",
+    "Where heat alone is not enough — for instance, hydrogen used to reduce iron ore instead of coke — clean electricity can split water to make that hydrogen without fossil carbon. This is the bridge from a clean grid into sectors that cannot simply plug in, and it multiplies the demand for firm clean power."
+   ],
+   [
+    "h2",
+    "Kept honest"
+   ],
+   [
+    "ul",
+    [
+     "Industrial decarbonization is a broad effort; fusion is one enabling input, not the whole answer.",
+     "The firm clean supply these processes need is still a design study at Kronos.",
+     "No economic or cost claims are made."
+    ]
+   ],
+   [
+    "p",
+    "See the systemic switch in <a href=./the-electrified-world.html>the electrified world</a> and the end state in <a href=./the-post-combustion-era.html>the post-combustion era</a>."
+   ]
+  ],
+  "related": [
+   [
+    "the-electrified-world",
+    "The Electrified World"
+   ],
+   [
+    "the-post-combustion-era",
+    "The Post-Combustion Era"
+   ],
+   [
+    "restoring-the-carbon-balance",
+    "Restoring the Carbon Balance"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "from-scarcity-to-abundance",
+  "title": "From Scarcity to Abundance",
+  "cat": "the-vision",
+  "lede": "The mindset shift the vision asks for: treating energy as something that can be abundant and clean, rather than a fixed budget to be fought over.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "A budget or a flow"
+   ],
+   [
+    "p",
+    "Much of energy policy is framed as budgeting: a fixed, scarce quantity to be divided among competing uses, with every gain for one sector a loss for another. That framing is realistic while clean energy is genuinely scarce. It becomes a self-imposed limit if clean firm energy can be made abundant."
+   ],
+   [
+    "p",
+    "The vision asks for a shift from budget to flow — from rationing a scarce clean resource to expanding it. This does not mean waste; abundance and efficiency go together, because efficient systems make abundance go further. It means stopping the assumption that living well and living cleanly must trade against each other."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 260\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">From a fixed pie to a rising floor</text><circle cx=\"160\" cy=\"150\" r=\"70\" fill=\"none\" stroke=\"#5b6472\" stroke-width=\"2\"/><line x1=\"160\" y1=\"150\" x2=\"230.0\" y2=\"150.0\" stroke=\"#5b6472\"/><line x1=\"160\" y1=\"150\" x2=\"194.8299733524209\" y2=\"210.71962579158117\" stroke=\"#5b6472\"/><line x1=\"160\" y1=\"150\" x2=\"124.66077267800998\" y2=\"210.42465566542117\" stroke=\"#5b6472\"/><line x1=\"160\" y1=\"150\" x2=\"90.00008877907223\" y2=\"150.1114857041541\" stroke=\"#5b6472\"/><line x1=\"160\" y1=\"150\" x2=\"125.07336553237018\" y2=\"89.3359232760889\" stroke=\"#5b6472\"/><line x1=\"160\" y1=\"150\" x2=\"195.242946998148\" y2=\"89.5191378460448\" stroke=\"#5b6472\"/><text x=\"160\" y=\"245\" fill=\"#8a93a3\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">scarcity: divide a fixed pie</text><line x1=\"360\" y1=\"220\" x2=\"600\" y2=\"220\" stroke=\"#5b6472\"/><path d=\"M360 200 C 440 160, 520 120, 600 90\" fill=\"none\" stroke=\"#D4AD5C\" stroke-width=\"3\"/><text x=\"480\" y=\"245\" fill=\"#8a93a3\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">abundance: raise the floor</text></svg>"
+   ],
+   [
+    "h2",
+    "Why the framing matters"
+   ],
+   [
+    "p",
+    "Framing is not idle. A scarcity mindset produces zero-sum politics around energy: growth versus climate, one region versus another, this decade versus the next. An abundance mindset, if it is warranted by the technology, dissolves several of those conflicts at once. The responsibility is to make sure the mindset is earned by real clean supply, not asserted ahead of it."
+   ],
+   [
+    "h2",
+    "The guardrail"
+   ],
+   [
+    "ul",
+    [
+     "Abundance must be demonstrated, not assumed — the machines are still simulation studies.",
+     "Efficiency remains essential; abundance is not license to waste.",
+     "No economic framing is offered — this is about physical supply."
+    ]
+   ],
+   [
+    "p",
+    "See where the abundance is spent in <a href=./abundant-clean-energy.html>abundant clean energy</a> and its human meaning in <a href=./energy-and-the-good-life.html>energy and the good life</a>."
+   ]
+  ],
+  "related": [
+   [
+    "abundant-clean-energy",
+    "Abundant Clean Energy"
+   ],
+   [
+    "energy-and-the-good-life",
+    "Energy and the Good Life"
+   ],
+   [
+    "energy-for-everyone",
+    "Energy for Everyone"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "energy-without-emissions",
+  "title": "Energy Without Emissions",
+  "cat": "the-vision",
+  "lede": "The core promise of fusion is decoupling energy from the smokestack: capability that does not add carbon or combustion pollution to the air.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "Breaking a two-century link"
+   ],
+   [
+    "p",
+    "Since the industrial revolution, more energy has meant more combustion, and more combustion has meant more carbon dioxide and pollution. That link is so old it can feel like a law of nature. It is not. It is an artifact of how we have made energy, and it can be broken by making energy differently."
+   ],
+   [
+    "p",
+    "Fusion breaks the link at the source. The reaction releases energy from light nuclei rather than from burning carbon, so there is no carbon dioxide and no combustion exhaust from the generation itself. The burner’s direct energy conversion turns that reaction into electricity without a fire and without a steam plume."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 230\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">Energy from fusion, not fire</text><circle cx=\"200\" cy=\"150\" r=\"16\" fill=\"#4a90c2\"/><circle cx=\"240\" cy=\"150\" r=\"16\" fill=\"#D4AD5C\"/><text x=\"220\" y=\"200\" fill=\"#8a93a3\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">light nuclei combine</text><path d=\"M275 150 h70\" stroke=\"#D4AD5C\" stroke-width=\"2.5\"/><polygon points=\"345,144 345,156 357,150\" fill=\"#D4AD5C\"/><rect x=\"370\" y=\"120\" width=\"120\" height=\"60\" rx=\"8\" fill=\"#232C39\" stroke=\"#D4AD5C\"/><text x=\"430\" y=\"148\" fill=\"#D4AD5C\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">electricity</text><text x=\"430\" y=\"166\" fill=\"#8a93a3\" font-size=\"9\" text-anchor=\"middle\" font-family=\"sans-serif\">no CO₂, no exhaust</text></svg>"
+   ],
+   [
+    "h2",
+    "The full accounting"
+   ],
+   [
+    "p",
+    "Honesty requires the whole picture. No energy source is free of all impact: building any plant uses materials and energy, and fusion has its own considerations, covered candidly in the safety and waste sections — low activation, a favorable waste class, no long-lived spent fuel. The vision’s claim is specific: the generation itself emits no carbon and no combustion pollutants, which is the property that most matters for air and climate."
+   ],
+   [
+    "h2",
+    "Boundaries"
+   ],
+   [
+    "ul",
+    [
+     "The generation-stage emissions case is solid; lifecycle impacts are addressed elsewhere on this site.",
+     "The burner’s direct conversion is a design choice, not a demonstrated plant.",
+     "No economic claims accompany this."
+    ]
+   ],
+   [
+    "p",
+    "See the pollution payoff in <a href=./clean-air-cities.html>clean-air cities</a> and the systemic end state in <a href=./the-post-combustion-era.html>the post-combustion era</a>."
+   ]
+  ],
+  "related": [
+   [
+    "clean-air-cities",
+    "Clean-Air Cities"
+   ],
+   [
+    "the-post-combustion-era",
+    "The Post-Combustion Era"
+   ],
+   [
+    "the-fuel-that-doesnt-run-out",
+    "The Fuel That Doesn’t Run Out"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "oceans-and-fusion",
+  "title": "Oceans and Fusion",
+  "cat": "the-vision",
+  "lede": "The ocean absorbs our carbon and our heat; ending combustion and easing the pressure on rivers gives marine systems room to stabilize.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "The sea has been the buffer"
+   ],
+   [
+    "p",
+    "The ocean has quietly absorbed a large share of the carbon dioxide and heat from two centuries of burning, which is why it is warming and acidifying. That buffering has spared the atmosphere worse, at the cost of the marine chemistry that reefs, shellfish, and fisheries depend on. Relieving the ocean means turning off the carbon at the source."
+   ],
+   [
+    "p",
+    "Clean energy that emits no carbon does exactly that. As generation and industry stop adding carbon dioxide, the pressure that drives ocean acidification eases, giving marine ecosystems a chance to stabilize rather than degrade further. This is slow — ocean chemistry has long memory — but the direction reverses."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 245\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">Turning off carbon eases the ocean</text><rect x=\"40\" y=\"120\" width=\"560\" height=\"110\" fill=\"#2c4a6e\" opacity=\"0.55\"/><path d=\"M40 120 q40 -14 80 0 t80 0 t80 0 t80 0 t80 0 t80 0\" fill=\"none\" stroke=\"#4a90c2\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"170\" r=\"5\" fill=\"#7fa38a\" opacity=\"0.7\"/><circle cx=\"180\" cy=\"187\" r=\"5\" fill=\"#7fa38a\" opacity=\"0.7\"/><circle cx=\"270\" cy=\"204\" r=\"5\" fill=\"#7fa38a\" opacity=\"0.7\"/><circle cx=\"360\" cy=\"181\" r=\"5\" fill=\"#7fa38a\" opacity=\"0.7\"/><circle cx=\"450\" cy=\"198\" r=\"5\" fill=\"#7fa38a\" opacity=\"0.7\"/><circle cx=\"540\" cy=\"175\" r=\"5\" fill=\"#7fa38a\" opacity=\"0.7\"/><text x=\"320\" y=\"205\" fill=\"#E8E4DA\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">stabilizing chemistry, recovering life</text><line x1=\"320\" y1=\"55\" x2=\"320\" y2=\"115\" stroke=\"#D4AD5C\" stroke-width=\"2\"/><polygon points=\"314,110 326,110 320,120\" fill=\"#D4AD5C\"/><text x=\"320\" y=\"48\" fill=\"#D4AD5C\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">no new carbon from clean power</text></svg>"
+   ],
+   [
+    "h2",
+    "Water taken, water spared"
+   ],
+   [
+    "p",
+    "There is a second ocean link. Clean desalination can supply coastal cities from the sea instead of from over-drawn rivers and aquifers, protecting the freshwater ecosystems that suffer when human demand outstrips supply. And because the burner needs little cooling water, firm clean generation does not add its own thirst to the problem."
+   ],
+   [
+    "h2",
+    "Honest limits"
+   ],
+   [
+    "ul",
+    [
+     "Ocean recovery is gradual and depends on global emissions falling, not on any one plant.",
+     "Desalination brings its own local considerations, managed separately.",
+     "The machines are simulation studies; this is a long-horizon benefit."
+    ]
+   ],
+   [
+    "p",
+    "See <a href=./water-abundance.html>water abundance</a> and <a href=./energy-and-biodiversity.html>energy and biodiversity</a>."
+   ]
+  ],
+  "related": [
+   [
+    "water-abundance",
+    "Water Abundance"
+   ],
+   [
+    "energy-and-biodiversity",
+    "Energy & Biodiversity"
+   ],
+   [
+    "restoring-the-carbon-balance",
+    "Restoring the Carbon Balance"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "energy-for-medicine",
+  "title": "Energy and Isotopes for Medicine",
+  "cat": "the-vision",
+  "lede": "Beyond electricity, fusion machines produce neutrons and isotopes that medicine relies on — a health dividend alongside the clean-power one.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "More than power"
+   ],
+   [
+    "p",
+    "A fusion machine is a source of energetic neutrons and, by design, of specific isotopes. The breeder (Hyperion) is a deuterium–tritium spherical tokamak whose designed products include 14 MeV neutrons and a tritium-class output, alongside helium-3. Those outputs have uses far beyond the grid, and medicine is among the most important."
+   ],
+   [
+    "p",
+    "Medical imaging and certain cancer treatments depend on a reliable supply of specific isotopes, several of which are today produced in ageing reactors and are prone to shortage. A neutron source designed for steady operation could help stabilize that supply — a public-health benefit that rides alongside the energy mission."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 250\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">One machine, several outputs</text><circle cx=\"150\" cy=\"150\" r=\"46\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1.8\"/><text x=\"150\" y=\"148\" fill=\"#D4AD5C\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">Hyperion</text><text x=\"150\" y=\"165\" fill=\"#8a93a3\" font-size=\"9\" text-anchor=\"middle\" font-family=\"sans-serif\">breeder</text><g><line x1=\"196\" y1=\"150\" x2=\"380\" y2=\"90\" stroke=\"#5b6472\"/><rect x=\"380\" y=\"74\" width=\"180\" height=\"32\" rx=\"6\" fill=\"#1b2029\" stroke=\"#7fa38a\"/><text x=\"470\" y=\"95\" fill=\"#E8E4DA\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">14 MeV neutrons</text></g><g><line x1=\"196\" y1=\"150\" x2=\"380\" y2=\"150\" stroke=\"#5b6472\"/><rect x=\"380\" y=\"134\" width=\"180\" height=\"32\" rx=\"6\" fill=\"#1b2029\" stroke=\"#7fa38a\"/><text x=\"470\" y=\"155\" fill=\"#E8E4DA\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">medical isotopes</text></g><g><line x1=\"196\" y1=\"150\" x2=\"380\" y2=\"210\" stroke=\"#5b6472\"/><rect x=\"380\" y=\"194\" width=\"180\" height=\"32\" rx=\"6\" fill=\"#1b2029\" stroke=\"#7fa38a\"/><text x=\"470\" y=\"215\" fill=\"#E8E4DA\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">helium-3</text></g></svg>"
+   ],
+   [
+    "h2",
+    "Why this belongs in the vision"
+   ],
+   [
+    "p",
+    "The vision is a healthier world, and health is not only clean air and water. A dependable domestic source of medical isotopes reduces the fragility of a supply chain that patients quietly depend on. It is a concrete way that fusion’s benefits reach people who will never think about plasma physics."
+   ],
+   [
+    "h2",
+    "The honest frame"
+   ],
+   [
+    "ul",
+    [
+     "The neutron and isotope outputs are frozen design figures, not delivered production.",
+     "Isotope supply is a broad field; fusion is one potential contributor.",
+     "No economic or market claims are made — this is a capability, not a business claim."
+    ]
+   ],
+   [
+    "p",
+    "See the outward-facing side in <a href=./fusion-and-space.html>fusion and space</a> and the compute link in <a href=./computing-and-discovery.html>computing and discovery</a>."
+   ]
+  ],
+  "related": [
+   [
+    "fusion-and-space",
+    "Fusion & Space"
+   ],
+   [
+    "computing-and-discovery",
+    "Computing & Discovery"
+   ],
+   [
+    "the-fuel-that-doesnt-run-out",
+    "The Fuel That Doesn’t Run Out"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "the-post-combustion-era",
+  "title": "The Post-Combustion Era",
+  "cat": "the-vision",
+  "lede": "The through-line of the vision is the end of burning things for energy — a civilizational shift as large as the one that started with fire.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "Fire built us; fire also limits us"
+   ],
+   [
+    "p",
+    "Controlled fire is arguably humanity’s oldest technology, and burning fuel has powered every advance since the industrial revolution. But combustion is also the root of the climate problem, of urban air pollution, and of much geopolitical conflict over fuel. The post-combustion era is the idea that we can keep the capability fire gave us while retiring the fire itself."
+   ],
+   [
+    "p",
+    "Fusion is not fire. It releases energy by combining light nuclei, not by oxidizing carbon, so it produces no carbon dioxide and no smoke. Together with renewables and electrification, it points toward an energy system where nothing needs to be burned to keep the lights on, the factories running, or the vehicles moving."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 210\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">Retiring the fire, keeping the capability</text><line x1=\"60\" y1=\"150\" x2=\"600\" y2=\"150\" stroke=\"#5b6472\"/><circle cx=\"150\" cy=\"150\" r=\"7\" fill=\"#c27f7f\"/><text x=\"150\" y=\"185\" fill=\"#8a93a3\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">fire</text><circle cx=\"330\" cy=\"150\" r=\"7\" fill=\"#8a93a3\"/><text x=\"330\" y=\"185\" fill=\"#8a93a3\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">combustion age</text><circle cx=\"530\" cy=\"150\" r=\"9\" fill=\"#D4AD5C\"/><text x=\"530\" y=\"185\" fill=\"#D4AD5C\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">post-combustion</text><path d=\"M60 130 C 250 100, 420 110, 600 120\" fill=\"none\" stroke=\"#D4AD5C\" stroke-width=\"2\" opacity=\"0.5\"/></svg>"
+   ],
+   [
+    "h2",
+    "What ends, and what does not"
+   ],
+   [
+    "ul",
+    [
+     "Ends: routine burning of coal, oil, and gas for power, heat, and transport.",
+     "Ends: the air pollution and carbon that combustion carries.",
+     "Continues: the capability — warmth, mobility, industry, computation — now clean.",
+     "Continues: renewables as the bulk supply, with firm fusion closing the gap."
+    ]
+   ],
+   [
+    "h2",
+    "Stated with discipline"
+   ],
+   [
+    "p",
+    "This is a long-horizon, civilization-scale claim, and it is offered as a direction rather than a schedule. The machines are simulation studies; the transition is the work of decades and of many technologies together. Naming the destination is how the near-term engineering stays pointed the right way."
+   ],
+   [
+    "p",
+    "See the beginning of the arc in <a href=./abundant-clean-energy.html>abundant clean energy</a> and its close in <a href=./the-endgame-a-balanced-world.html>a balanced world</a>."
+   ]
+  ],
+  "related": [
+   [
+    "energy-without-emissions",
+    "Energy Without Emissions"
+   ],
+   [
+    "the-electrified-world",
+    "The Electrified World"
+   ],
+   [
+    "the-endgame-a-balanced-world",
+    "A Balanced World"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "resilience-and-security",
+  "title": "Resilience and Energy Security",
+  "cat": "the-vision",
+  "lede": "Energy made from abundant, widely available fuel and produced near where it is used is harder to disrupt and less bound to geopolitics.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "Fuel that isn’t a chokepoint"
+   ],
+   [
+    "p",
+    "A great deal of geopolitical friction comes from where fossil fuels happen to lie in the ground. Nations that lack them import them; nations that have them wield them. Energy security, for most of the world, has meant securing access to fuel from somewhere else, with all the vulnerability that implies."
+   ],
+   [
+    "p",
+    "Fusion’s primary fuel is deuterium, extracted from ordinary water and available to essentially every nation with a coastline or a water supply. The breeder is designed to make its own tritium, and helium-3 can be bred rather than mined. A fuel base this distributed changes the security picture: there is no single chokepoint to control."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 245\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">Distributed fuel, resilient supply</text><circle cx=\"80\" cy=\"80\" r=\"8\" fill=\"#4a90c2\" opacity=\"0.7\"/><circle cx=\"141\" cy=\"123\" r=\"8\" fill=\"#4a90c2\" opacity=\"0.7\"/><circle cx=\"202\" cy=\"166\" r=\"8\" fill=\"#4a90c2\" opacity=\"0.7\"/><circle cx=\"263\" cy=\"89\" r=\"8\" fill=\"#4a90c2\" opacity=\"0.7\"/><circle cx=\"324\" cy=\"132\" r=\"8\" fill=\"#4a90c2\" opacity=\"0.7\"/><circle cx=\"385\" cy=\"175\" r=\"8\" fill=\"#4a90c2\" opacity=\"0.7\"/><circle cx=\"446\" cy=\"98\" r=\"8\" fill=\"#4a90c2\" opacity=\"0.7\"/><circle cx=\"507\" cy=\"141\" r=\"8\" fill=\"#4a90c2\" opacity=\"0.7\"/><circle cx=\"88\" cy=\"184\" r=\"8\" fill=\"#4a90c2\" opacity=\"0.7\"/><circle cx=\"149\" cy=\"107\" r=\"8\" fill=\"#4a90c2\" opacity=\"0.7\"/><circle cx=\"210\" cy=\"150\" r=\"8\" fill=\"#4a90c2\" opacity=\"0.7\"/><circle cx=\"271\" cy=\"193\" r=\"8\" fill=\"#4a90c2\" opacity=\"0.7\"/><circle cx=\"332\" cy=\"116\" r=\"8\" fill=\"#4a90c2\" opacity=\"0.7\"/><circle cx=\"393\" cy=\"159\" r=\"8\" fill=\"#4a90c2\" opacity=\"0.7\"/><text x=\"320\" y=\"225\" fill=\"#D4AD5C\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">deuterium is everywhere there is water</text></svg>"
+   ],
+   [
+    "h2",
+    "Produced near where it is used"
+   ],
+   [
+    "p",
+    "Resilience is also about the grid itself. Compact firm generation can be sited close to load, reducing dependence on long, exposed transmission lines and centralized single points of failure. A defense-oriented housing, Aegis, is conceived precisely for dependable power at fixed installations where continuity matters most."
+   ],
+   [
+    "h2",
+    "The honest boundary"
+   ],
+   [
+    "ul",
+    [
+     "Fuel abundance is a real property of the physics; the plants that use it are still design studies.",
+     "Aegis is for fixed defense installations, not naval vessels.",
+     "Security outcomes depend on deployment choices well beyond the technology."
+    ]
+   ],
+   [
+    "p",
+    "See the fuel case in <a href=./the-fuel-that-doesnt-run-out.html>the fuel that doesn’t run out</a> and access in <a href=./energy-for-everyone.html>energy for everyone</a>."
+   ]
+  ],
+  "related": [
+   [
+    "the-fuel-that-doesnt-run-out",
+    "The Fuel That Doesn’t Run Out"
+   ],
+   [
+    "energy-for-everyone",
+    "Energy for Everyone"
+   ],
+   [
+    "firm-power-for-a-renewable-grid",
+    "Firm Power for a Renewable Grid"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "a-day-in-2050",
+  "title": "A Day in 2050",
+  "cat": "the-vision",
+  "lede": "A deliberately illustrative sketch of ordinary life on a clean, firm-powered grid — offered as a picture, not a prediction.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "An ordinary morning"
+   ],
+   [
+    "p",
+    "Picture a weekday decades from now. The air over the city is clear enough to see the hills; the streets are quiet because the traffic is electric. Homes are warm from clean electric heat, water runs from a tap supplied partly by clean desalination, and the grid has not had a dirty hour in years because firm clean generation covers the still, dark stretches that once ran on gas."
+   ],
+   [
+    "p",
+    "This is a sketch, not a forecast. It is included to make the abstract concrete — to show what the properties described across this section add up to in a single lived day. Every element traces back to a real claim on another page; none of it is a promise about a specific year."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 195\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">One clean, firm-powered day</text><rect x=\"40\" y=\"55\" width=\"560\" height=\"130\" rx=\"8\" fill=\"#1b2029\" stroke=\"#5b6472\"/><g><circle cx=\"110\" cy=\"110\" r=\"26\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1.3\"/><text x=\"110\" y=\"114\" fill=\"#E8E4DA\" font-size=\"14\" text-anchor=\"middle\">☀</text><text x=\"110\" y=\"160\" fill=\"#8a93a3\" font-size=\"9\" text-anchor=\"middle\" font-family=\"sans-serif\">clear air</text></g><g><circle cx=\"205\" cy=\"110\" r=\"26\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1.3\"/><text x=\"205\" y=\"114\" fill=\"#E8E4DA\" font-size=\"14\" text-anchor=\"middle\">⚡</text><text x=\"205\" y=\"160\" fill=\"#8a93a3\" font-size=\"9\" text-anchor=\"middle\" font-family=\"sans-serif\">clean power</text></g><g><circle cx=\"300\" cy=\"110\" r=\"26\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1.3\"/><text x=\"300\" y=\"114\" fill=\"#E8E4DA\" font-size=\"14\" text-anchor=\"middle\">💧</text><text x=\"300\" y=\"160\" fill=\"#8a93a3\" font-size=\"9\" text-anchor=\"middle\" font-family=\"sans-serif\">fresh water</text></g><g><circle cx=\"395\" cy=\"110\" r=\"26\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1.3\"/><text x=\"395\" y=\"114\" fill=\"#E8E4DA\" font-size=\"14\" text-anchor=\"middle\">🌳</text><text x=\"395\" y=\"160\" fill=\"#8a93a3\" font-size=\"9\" text-anchor=\"middle\" font-family=\"sans-serif\">green space</text></g><g><circle cx=\"490\" cy=\"110\" r=\"26\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1.3\"/><text x=\"490\" y=\"114\" fill=\"#E8E4DA\" font-size=\"14\" text-anchor=\"middle\">💻</text><text x=\"490\" y=\"160\" fill=\"#8a93a3\" font-size=\"9\" text-anchor=\"middle\" font-family=\"sans-serif\">clean compute</text></g></svg>"
+   ],
+   [
+    "h2",
+    "Through the day"
+   ],
+   [
+    "ul",
+    [
+     "Work runs on data centers powered by firm clean electricity, not fossil standby.",
+     "Nearby land that once held a fuel depot is now parkland and habitat.",
+     "A clinic relies on a steady domestic supply of medical isotopes.",
+     "Nothing in the day required anything to be burned."
+    ]
+   ],
+   [
+    "h2",
+    "Why a sketch belongs here"
+   ],
+   [
+    "p",
+    "Numbers persuade the head; a scene reaches the intuition. This page is the intuition version of the whole section, clearly flagged as illustrative. If the technical work succeeds, days like this become possible; if it does not, this remains a sketch. Either way it is labeled honestly as vision."
+   ],
+   [
+    "p",
+    "Trace the pieces back through <a href=./energy-and-the-good-life.html>energy and the good life</a> and <a href=./cities-that-breathe.html>cities that breathe</a>."
+   ]
+  ],
+  "related": [
+   [
+    "energy-and-the-good-life",
+    "Energy and the Good Life"
+   ],
+   [
+    "cities-that-breathe",
+    "Cities That Breathe"
+   ],
+   [
+    "powering-advanced-ai",
+    "Powering Advanced Intelligence"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "computing-and-discovery",
+  "title": "Computing and Discovery",
+  "cat": "the-vision",
+  "lede": "Clean power and large-scale computation form a loop: energy runs the models, and the models accelerate the science, including fusion itself.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "Discovery has become compute-bound"
+   ],
+   [
+    "p",
+    "Whole fields now advance at the pace of available computation. Protein structures, new materials, climate projections, and drug candidates are increasingly found by simulation and machine learning before they are ever made in a lab. The rate of discovery is, in part, an energy question: more clean compute means more searching of the space of possible answers."
+   ],
+   [
+    "p",
+    "Fusion sits inside this loop in an unusual way. The same class of computation that fusion could power is also what makes fusion itself tractable: surrogate models that run design studies orders of magnitude faster than first-principles solvers, and control systems that learn to hold a plasma steady. Kronos builds and uses this stack directly."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 250\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">A reinforcing loop</text><circle cx=\"200\" cy=\"150\" r=\"50\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1.6\"/><text x=\"200\" y=\"155\" fill=\"#D4AD5C\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">clean power</text><circle cx=\"440\" cy=\"150\" r=\"50\" fill=\"#232C39\" stroke=\"#7fa38a\" stroke-width=\"1.6\"/><text x=\"440\" y=\"155\" fill=\"#7fa38a\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">computation</text><path d=\"M250 130 Q 320 95 390 130\" fill=\"none\" stroke=\"#D4AD5C\" stroke-width=\"2\"/><polygon points=\"384,124 396,130 384,138\" fill=\"#D4AD5C\"/><path d=\"M390 170 Q 320 205 250 170\" fill=\"none\" stroke=\"#7fa38a\" stroke-width=\"2\"/><polygon points=\"256,176 244,170 256,162\" fill=\"#7fa38a\"/><text x=\"320\" y=\"100\" fill=\"#8a93a3\" font-size=\"9\" text-anchor=\"middle\" font-family=\"sans-serif\">powers</text><text x=\"320\" y=\"210\" fill=\"#8a93a3\" font-size=\"9\" text-anchor=\"middle\" font-family=\"sans-serif\">accelerates</text></svg>"
+   ],
+   [
+    "h2",
+    "A quantum thread"
+   ],
+   [
+    "p",
+    "The loop extends into quantum computing, where the breeder’s helium-3 output is relevant: helium-3 dilution refrigeration reaches the millikelvin temperatures that superconducting and spin qubits need. Fusion could thus supply both the power and a key material for the next generation of computers — which in turn help design better fusion."
+   ],
+   [
+    "h2",
+    "The honest edge"
+   ],
+   [
+    "ul",
+    [
+     "The surrogate and control stack is real and in use; the plant it will run is still a study.",
+     "The helium-3 figure is a frozen design number, not delivered supply.",
+     "No economic claims accompany the compute loop."
+    ]
+   ],
+   [
+    "p",
+    "See the power side in <a href=./powering-advanced-ai.html>powering advanced intelligence</a> and the material side in <a href=./fusion-and-space.html>fusion and space</a>."
+   ]
+  ],
+  "related": [
+   [
+    "powering-advanced-ai",
+    "Powering Advanced Intelligence"
+   ],
+   [
+    "fusion-and-space",
+    "Fusion & Space"
+   ],
+   [
+    "energy-for-medicine",
+    "Energy for Medicine"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "the-fuel-that-doesnt-run-out",
+  "title": "The Fuel That Doesn’t Run Out",
+  "cat": "the-vision",
+  "lede": "Fusion’s fuels are drawn from water and bred in the machine, not dug from a mine — a supply that does not deplete on any human timescale.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "Where the fuel comes from"
+   ],
+   [
+    "p",
+    "The breeder runs on deuterium and tritium. Deuterium is a heavy form of hydrogen present in ordinary water — every liter of seawater contains it, and the total in the oceans is effectively inexhaustible on any human timescale. Tritium is not mined at all: the breeder is designed to make its own, treating the tritium breeding ratio as a design lever across 1.1, 1.5, and 1.8."
+   ],
+   [
+    "p",
+    "The burner runs on deuterium and helium-3. Helium-3 is rare terrestrially, but it too can be bred rather than mined — the breeder is designed to produce it in a helium-3 output class alongside its tritium. In both machines, the fuel story avoids the extraction, transport, and geopolitics that fossil fuels carry."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 240\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">Fuel from water and from breeding, not mining</text><path d=\"M60 190 q35 -22 70 0 t70 0\" fill=\"none\" stroke=\"#4a90c2\" stroke-width=\"3\"/><text x=\"130\" y=\"220\" fill=\"#8a93a3\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">deuterium from water</text><rect x=\"260\" y=\"130\" width=\"130\" height=\"70\" rx=\"8\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1.5\"/><text x=\"325\" y=\"160\" fill=\"#D4AD5C\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">breeder</text><text x=\"325\" y=\"180\" fill=\"#8a93a3\" font-size=\"9\" text-anchor=\"middle\" font-family=\"sans-serif\">breeds its own fuel</text><path d=\"M400 150 h60\" stroke=\"#7fa38a\" stroke-width=\"2.5\"/><polygon points=\"460,144 460,156 472,150\" fill=\"#7fa38a\"/><text x=\"530\" y=\"145\" fill=\"#7fa38a\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">tritium +</text><text x=\"530\" y=\"162\" fill=\"#7fa38a\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">helium-3</text></svg>"
+   ],
+   [
+    "h2",
+    "What breeding is a lever for"
+   ],
+   [
+    "p",
+    "Treating the tritium breeding ratio as a lever rather than a fixed number is an honest engineering stance: it means the design is studied across a range — 1.1, 1.5, 1.8 — rather than pinned to a single optimistic figure. The vision point is narrower than the engineering detail: the fuel cycle is designed to close on itself rather than lean on a mine."
+   ],
+   [
+    "h2",
+    "Kept honest"
+   ],
+   [
+    "ul",
+    [
+     "Deuterium abundance is a settled physical fact; the plants that use it are still design studies.",
+     "The breeding ratio is a design lever under study, not a demonstrated plant result.",
+     "Helium-3 breeding output is a frozen design figure, not delivered production."
+    ]
+   ],
+   [
+    "p",
+    "See the security angle in <a href=./resilience-and-security.html>resilience and security</a> and the emissions angle in <a href=./energy-without-emissions.html>energy without emissions</a>."
+   ]
+  ],
+  "related": [
+   [
+    "resilience-and-security",
+    "Resilience & Security"
+   ],
+   [
+    "energy-without-emissions",
+    "Energy Without Emissions"
+   ],
+   [
+    "from-scarcity-to-abundance",
+    "From Scarcity to Abundance"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "cities-that-breathe",
+  "title": "Cities That Breathe",
+  "cat": "the-vision",
+  "lede": "Freed from combustion and its footprint, cities can weave nature back through the built environment rather than paving it out.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "The city as an ecosystem"
+   ],
+   [
+    "p",
+    "Cities have long been treated as the opposite of nature — the place where the wild is pushed out. That framing was partly forced by combustion: power plants, traffic, and industry made dense living dirty and loud, and green space was a scarce amenity rather than a structural feature. Clean, quiet, firm energy loosens that constraint."
+   ],
+   [
+    "p",
+    "When power is clean and generation is compact and near load, more of the urban fabric can be given to parks, street trees, green roofs, and daylit rivers. A city that no longer burns is a city that can breathe — cooler in summer, cleaner to inhale, and richer in the small pockets of habitat that make dense living pleasant."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 260\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">Nature woven back through the city</text><rect x=\"60\" y=\"130\" width=\"46\" height=\"100\" rx=\"4\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1\"/><rect x=\"130\" y=\"100\" width=\"46\" height=\"130\" rx=\"4\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1\"/><rect x=\"200\" y=\"140\" width=\"46\" height=\"90\" rx=\"4\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1\"/><rect x=\"270\" y=\"110\" width=\"46\" height=\"120\" rx=\"4\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1\"/><rect x=\"340\" y=\"125\" width=\"46\" height=\"105\" rx=\"4\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1\"/><rect x=\"410\" y=\"115\" width=\"46\" height=\"115\" rx=\"4\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1\"/><rect x=\"480\" y=\"135\" width=\"46\" height=\"95\" rx=\"4\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1\"/><circle cx=\"95\" cy=\"160\" r=\"12\" fill=\"#7fa38a\" opacity=\"0.75\"/><circle cx=\"165\" cy=\"160\" r=\"12\" fill=\"#7fa38a\" opacity=\"0.75\"/><circle cx=\"235\" cy=\"160\" r=\"12\" fill=\"#7fa38a\" opacity=\"0.75\"/><circle cx=\"305\" cy=\"160\" r=\"12\" fill=\"#7fa38a\" opacity=\"0.75\"/><circle cx=\"375\" cy=\"160\" r=\"12\" fill=\"#7fa38a\" opacity=\"0.75\"/><circle cx=\"445\" cy=\"160\" r=\"12\" fill=\"#7fa38a\" opacity=\"0.75\"/><rect x=\"40\" y=\"205\" width=\"560\" height=\"14\" fill=\"#7fa38a\" opacity=\"0.3\"/><text x=\"320\" y=\"245\" fill=\"#8a93a3\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">density and green space, together</text></svg>"
+   ],
+   [
+    "h2",
+    "Density done well"
+   ],
+   [
+    "p",
+    "This is not a call to empty cities into the countryside; dense living is itself efficient. It is a claim that density and nature are compatible once the dirty, land-hungry parts of the energy system shrink. The land a compact grid does not need, and the air a clean grid does not foul, are exactly the resources a livable city has always lacked."
+   ],
+   [
+    "h2",
+    "The honest note"
+   ],
+   [
+    "ul",
+    [
+     "Urban form is a planning choice; clean energy enables it but does not decide it.",
+     "This is a long-horizon picture, not a claim about any current city.",
+     "The machines remain simulation studies."
+    ]
+   ],
+   [
+    "p",
+    "See the air side in <a href=./clean-air-cities.html>clean-air cities</a> and the land side in <a href=./rewilding-and-land.html>rewilding and land</a>."
+   ]
+  ],
+  "related": [
+   [
+    "clean-air-cities",
+    "Clean-Air Cities"
+   ],
+   [
+    "rewilding-and-land",
+    "Rewilding & Land"
+   ],
+   [
+    "energy-and-the-good-life",
+    "Energy and the Good Life"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "the-generational-project",
+  "title": "The Generational Project",
+  "cat": "the-vision",
+  "lede": "Building the clean-energy foundation is the work of more than one career; naming that honestly is part of taking it seriously.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "Longer than a career"
+   ],
+   [
+    "p",
+    "Some projects are finished by the people who start them. This one is not. Bringing fusion from design studies to a fleet of plants, and then to the abundance this section describes, spans more time than any single working life. Pretending otherwise would be a form of dishonesty — the kind that erodes trust when the fast timeline fails to arrive."
+   ],
+   [
+    "p",
+    "So Kronos states it plainly: this is a generational project. The near-term milestones are real and dated — construction planned for Q2 2027, first tritium targeted around 2030 — but the endgame is a relay handed across generations of engineers, scientists, and builders. Each generation’s job is to move the work honestly to the next."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 230\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">A relay, not a sprint</text><line x1=\"60\" y1=\"150\" x2=\"600\" y2=\"150\" stroke=\"#5b6472\" stroke-width=\"1.4\"/><g><circle cx=\"130\" cy=\"150\" r=\"18\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1.5\"/><text x=\"130\" y=\"155\" fill=\"#D4AD5C\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">1</text><path d=\"M148 150 h124\" stroke=\"#D4AD5C\" stroke-width=\"1.5\" stroke-dasharray=\"4 4\"/><polygon points=\"270,144 270,156 282,150\" fill=\"#D4AD5C\"/></g><g><circle cx=\"290\" cy=\"150\" r=\"18\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1.5\"/><text x=\"290\" y=\"155\" fill=\"#D4AD5C\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">2</text><path d=\"M308 150 h124\" stroke=\"#D4AD5C\" stroke-width=\"1.5\" stroke-dasharray=\"4 4\"/><polygon points=\"430,144 430,156 442,150\" fill=\"#D4AD5C\"/></g><g><circle cx=\"450\" cy=\"150\" r=\"18\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1.5\"/><text x=\"450\" y=\"155\" fill=\"#D4AD5C\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">3</text></g><text x=\"320\" y=\"205\" fill=\"#8a93a3\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">each hand-off honest about what is proven</text></svg>"
+   ],
+   [
+    "h2",
+    "Why say so"
+   ],
+   [
+    "p",
+    "There is a temptation in ambitious technology to promise soon and often, because urgency raises attention. The cost is credibility. A project that is candid about its timescale can be trusted on its near-term claims precisely because it is not overselling the far ones. Honesty about the horizon is the price of being believed about the milestone."
+   ],
+   [
+    "h2",
+    "The commitment"
+   ],
+   [
+    "ul",
+    [
+     "Near-term claims are specific, dated, and checkable.",
+     "Far-term claims are labeled vision and carry no schedule.",
+     "The work is designed to be handed on, documented and honest."
+    ]
+   ],
+   [
+    "p",
+    "See the timeline framing in <a href=./the-long-horizon.html>the long horizon</a> and the boundaries in <a href=./honest-vision-what-we-dont-claim.html>what we don’t claim</a>."
+   ]
+  ],
+  "related": [
+   [
+    "the-long-horizon",
+    "The Long Horizon"
+   ],
+   [
+    "honest-vision-what-we-dont-claim",
+    "What We Don’t Claim"
+   ],
+   [
+    "the-endgame-a-balanced-world",
+    "A Balanced World"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "energy-and-biodiversity",
+  "title": "Energy and Biodiversity",
+  "cat": "the-vision",
+  "lede": "Habitat loss and climate change are the two great pressures on wild life; clean, compact, firm energy eases both at once.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "Two pressures, one lever"
+   ],
+   [
+    "p",
+    "The decline of wild species is driven above all by two forces: the conversion of habitat to human use, and the shifting of climate faster than ecosystems can adapt. Energy sits behind both — land taken for extraction and generation, and warming driven by combustion. A clean, compact, firm energy system reduces both pressures with the same move."
+   ],
+   [
+    "p",
+    "Compact generation frees land that can stay or become habitat. Zero-carbon generation slows the warming that pushes species out of their ranges. Neither is sufficient alone; together they change the trajectory that wildlife faces. The vision counts biodiversity as a first-class outcome of getting energy right, not an afterthought."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 260\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">Easing both pressures on wild life</text><rect x=\"70\" y=\"70\" width=\"200\" height=\"70\" rx=\"8\" fill=\"#1b2029\" stroke=\"#7fa38a\"/><text x=\"170\" y=\"112\" fill=\"#E8E4DA\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">habitat kept (compact power)</text><rect x=\"70\" y=\"165\" width=\"200\" height=\"70\" rx=\"8\" fill=\"#1b2029\" stroke=\"#7fa38a\"/><text x=\"170\" y=\"207\" fill=\"#E8E4DA\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">climate slowed (zero carbon)</text><path d=\"M270 105 Q 360 150 440 150\" fill=\"none\" stroke=\"#D4AD5C\" stroke-width=\"2\"/><path d=\"M270 200 Q 360 150 440 150\" fill=\"none\" stroke=\"#D4AD5C\" stroke-width=\"2\"/><circle cx=\"490\" cy=\"150\" r=\"44\" fill=\"#232C39\" stroke=\"#D4AD5C\" stroke-width=\"1.6\"/><text x=\"490\" y=\"148\" fill=\"#D4AD5C\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">recovering</text><text x=\"490\" y=\"164\" fill=\"#8a93a3\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">ecosystems</text></svg>"
+   ],
+   [
+    "h2",
+    "Restoration needs energy too"
+   ],
+   [
+    "p",
+    "Beyond easing pressure, active restoration — replanting, rewetting drained land, running conservation infrastructure — takes energy and clean water. Abundant clean power makes those efforts affordable in energy terms, turning conservation from a defensive holding action into something that can expand habitat rather than merely defend it."
+   ],
+   [
+    "h2",
+    "Honest limits"
+   ],
+   [
+    "ul",
+    [
+     "Biodiversity depends on many factors beyond energy; this is one lever among several.",
+     "Freed land is rewilded only if societies choose to; the technology creates the option.",
+     "The machines are simulation studies; this is a long-horizon benefit."
+    ]
+   ],
+   [
+    "p",
+    "See <a href=./rewilding-and-land.html>rewilding and land</a> and <a href=./restoring-nature.html>restoring nature</a>."
+   ]
+  ],
+  "related": [
+   [
+    "rewilding-and-land",
+    "Rewilding & Land"
+   ],
+   [
+    "restoring-nature",
+    "Restoring Nature"
+   ],
+   [
+    "oceans-and-fusion",
+    "Oceans & Fusion"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "restoring-nature",
+  "title": "Restoring Nature",
+  "cat": "the-vision",
+  "lede": "The active repair of ecosystems — forests, wetlands, soils — becomes possible at scale when the energy to do the work is clean and abundant.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "Repair is work, and work needs energy"
+   ],
+   [
+    "p",
+    "Letting nature recover on its own is slow and, in degraded landscapes, sometimes impossible. Active restoration — replanting forests, rewetting drained peatlands, rebuilding soils, removing invasive species, restoring rivers — is real physical work that takes machinery, water, and logistics, all of which take energy. On a scarce or dirty energy budget, restoration competes with everything else and usually loses."
+   ],
+   [
+    "p",
+    "With abundant clean energy, restoration stops being a luxury. The same firm clean power that runs cities can run the pumps, vehicles, nurseries, and desalination that large-scale ecological repair depends on. The vision treats a recovering biosphere not as passive hope but as an active project that clean energy underwrites."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 260\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">From degraded to restored, powered cleanly</text><rect x=\"60\" y=\"150\" width=\"230\" height=\"80\" fill=\"#3a3f47\" opacity=\"0.5\"/><text x=\"175\" y=\"248\" fill=\"#8a93a3\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">degraded land</text><circle cx=\"360\" cy=\"150\" r=\"6\" fill=\"#7fa38a\" opacity=\"0.8\"/><circle cx=\"405\" cy=\"150\" r=\"9\" fill=\"#7fa38a\" opacity=\"0.8\"/><circle cx=\"450\" cy=\"150\" r=\"12\" fill=\"#7fa38a\" opacity=\"0.8\"/><circle cx=\"495\" cy=\"150\" r=\"15\" fill=\"#7fa38a\" opacity=\"0.8\"/><circle cx=\"540\" cy=\"150\" r=\"18\" fill=\"#7fa38a\" opacity=\"0.8\"/><rect x=\"350\" y=\"200\" width=\"230\" height=\"30\" fill=\"#7fa38a\" opacity=\"0.35\"/><text x=\"465\" y=\"248\" fill=\"#8a93a3\" font-size=\"10\" text-anchor=\"middle\" font-family=\"sans-serif\">restored habitat</text><path d=\"M290 190 h60\" stroke=\"#D4AD5C\" stroke-width=\"2.5\"/><polygon points=\"350,184 350,196 362,190\" fill=\"#D4AD5C\"/><text x=\"320\" y=\"178\" fill=\"#D4AD5C\" font-size=\"9\" text-anchor=\"middle\" font-family=\"sans-serif\">clean energy</text></svg>"
+   ],
+   [
+    "h2",
+    "What restoration draws on"
+   ],
+   [
+    "ul",
+    [
+     "Clean water for replanting arid and degraded land — see <a href=./water-abundance.html>water abundance</a>.",
+     "Clean energy for carbon drawdown that complements natural sinks.",
+     "Land freed by compact generation, available to restore.",
+     "Logistics and machinery run on clean electricity rather than diesel."
+    ]
+   ],
+   [
+    "h2",
+    "The honest boundary"
+   ],
+   [
+    "p",
+    "Restoration is ecological work with its own science and its own failures; energy removes one constraint, not all of them. And the choice to restore is a human one. Kronos’s claim is bounded: abundant clean energy makes large-scale repair affordable in energy terms, turning a hard constraint into a solvable one. The machines that would supply that energy are still design studies."
+   ],
+   [
+    "p",
+    "See the bigger picture in <a href=./the-healed-planet.html>the healed planet</a> and the wildlife thread in <a href=./energy-and-biodiversity.html>energy and biodiversity</a>."
+   ]
+  ],
+  "related": [
+   [
+    "the-healed-planet",
+    "The Healed Planet"
+   ],
+   [
+    "energy-and-biodiversity",
+    "Energy & Biodiversity"
+   ],
+   [
+    "water-abundance",
+    "Water Abundance"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "honest-vision-what-we-dont-claim",
+  "title": "What We Don’t Claim",
+  "cat": "the-vision",
+  "lede": "A vision is only trustworthy if its limits are as clear as its hopes; this page states plainly what Kronos does not promise.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "The line we draw"
+   ],
+   [
+    "p",
+    "Every page in this section describes a future that fusion could help make possible. This page draws the line the other way — it lists what is deliberately not claimed — because a vision without stated limits is just marketing, and marketing is not what this project runs on."
+   ],
+   [
+    "h2",
+    "We do not claim the machines work yet"
+   ],
+   [
+    "p",
+    "The breeder (Hyperion) and the burner (Aegis / MetroVolt) are design and simulation studies. No hardware net-gain has been demonstrated. Construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030. Everything in this vision is contingent on that engineering succeeding, which is not guaranteed."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 250\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">What is claimed vs what is not</text><rect x=\"50\" y=\"60\" width=\"255\" height=\"170\" rx=\"8\" fill=\"#1b2029\" stroke=\"#7fa38a\"/><text x=\"177\" y=\"85\" fill=\"#7fa38a\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">stated as fact</text><text x=\"70\" y=\"115\" fill=\"#E8E4DA\" font-size=\"10\" font-family=\"sans-serif\">• frozen design numbers</text><text x=\"70\" y=\"143\" fill=\"#E8E4DA\" font-size=\"10\" font-family=\"sans-serif\">• planned dates</text><text x=\"70\" y=\"171\" fill=\"#E8E4DA\" font-size=\"10\" font-family=\"sans-serif\">• the safety case</text><text x=\"70\" y=\"199\" fill=\"#E8E4DA\" font-size=\"10\" font-family=\"sans-serif\">• fuel abundance</text><rect x=\"335\" y=\"60\" width=\"255\" height=\"170\" rx=\"8\" fill=\"#1b2029\" stroke=\"#c27f7f\"/><text x=\"462\" y=\"85\" fill=\"#c27f7f\" font-size=\"12\" text-anchor=\"middle\" font-family=\"sans-serif\">not claimed</text><text x=\"355\" y=\"115\" fill=\"#E8E4DA\" font-size=\"10\" font-family=\"sans-serif\">• net gain today</text><text x=\"355\" y=\"143\" fill=\"#E8E4DA\" font-size=\"10\" font-family=\"sans-serif\">• a delivery date for abundance</text><text x=\"355\" y=\"171\" fill=\"#E8E4DA\" font-size=\"10\" font-family=\"sans-serif\">• costs or prices</text><text x=\"355\" y=\"199\" fill=\"#E8E4DA\" font-size=\"10\" font-family=\"sans-serif\">• a single-handed cure</text></svg>"
+   ],
+   [
+    "h2",
+    "We do not claim fusion does it alone"
+   ],
+   [
+    "p",
+    "Renewables do the bulk of grid decarbonization in this picture; fusion is the firm complement, not a replacement. Carbon drawdown, ocean recovery, and biodiversity depend on countless actors and choices. Kronos’s honest role is as one enabling input — clean firm energy — not as the author of the whole outcome."
+   ],
+   [
+    "h2",
+    "We do not make economic claims"
+   ],
+   [
+    "ul",
+    [
+     "No prices, costs, or returns appear anywhere in this section by design.",
+     "No forecast is offered for when abundance arrives.",
+     "No environmental figure that is contested or unpublished is used here.",
+     "Frozen technical numbers are stated with their real conditions, never inflated."
+    ]
+   ],
+   [
+    "p",
+    "This is the discipline that lets the rest of the vision be read in good faith. Return to <a href=./the-vision.html>the vision</a> or read the timeline framing in <a href=./the-long-horizon.html>the long horizon</a>."
+   ]
+  ],
+  "related": [
+   [
+    "the-vision",
+    "The Vision"
+   ],
+   [
+    "the-long-horizon",
+    "The Long Horizon"
+   ],
+   [
+    "the-generational-project",
+    "The Generational Project"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ },
+ {
+  "slug": "the-endgame-a-balanced-world",
+  "title": "The Endgame: A Balanced World",
+  "cat": "the-vision",
+  "lede": "The destination is not a utopia but a balance — an advanced society and a recovering planet, held together by clean firm power.",
+  "body": [
+   [
+    "p",
+    "<b>Vision, not specification.</b> This page describes a future that fusion could help make possible — not a product promise, forecast, or performance claim. The Kronos machines today are design and simulation studies: the breeder (Hyperion) and the burner (Aegis / MetroVolt). No hardware net-gain has been demonstrated; construction of the first breeder is planned to begin in Q2 2027, with first-of-a-kind first tritium targeted around 2030."
+   ],
+   [
+    "h2",
+    "Balance, not paradise"
+   ],
+   [
+    "p",
+    "It would be easy, and wrong, to end this section with a promise of paradise. The honest endgame is more modest and more durable: a balance. A civilization that keeps advancing — in computation, medicine, mobility, and comfort — while the living systems it depends on recover rather than decline. Two curves that used to trade against each other, finally moving the same way."
+   ],
+   [
+    "p",
+    "Everything in this section converges here. Abundant clean energy lifts the ceilings that scarcity imposed; firm clean power retires combustion; compact generation returns land to nature; clean water and carbon drawdown make active repair affordable. None of it is fusion alone, and none of it is guaranteed. All of it is what becomes possible if clean firm energy stops being scarce."
+   ],
+   [
+    "html",
+    "<svg viewBox=\"0 0 640 250\" width=\"100%\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:640px;display:block;margin:1.2rem auto;background:#1b2029;border:1px solid rgba(212,173,92,.25);border-radius:10px\"><text x=\"320\" y=\"30\" fill=\"#E8E4DA\" font-size=\"15\" text-anchor=\"middle\" font-family=\"Georgia,serif\">The balance the whole section aims at</text><line x1=\"320\" y1=\"70\" x2=\"320\" y2=\"120\" stroke=\"#5b6472\" stroke-width=\"2\"/><polygon points=\"320,60 312,78 328,78\" fill=\"#D4AD5C\"/><line x1=\"180\" y1=\"125\" x2=\"460\" y2=\"125\" stroke=\"#D4AD5C\" stroke-width=\"3\"/><circle cx=\"320\" cy=\"125\" r=\"7\" fill=\"#D4AD5C\"/><rect x=\"120\" y=\"130\" width=\"120\" height=\"70\" rx=\"8\" fill=\"#232C39\" stroke=\"#7fa38a\"/><text x=\"180\" y=\"160\" fill=\"#E8E4DA\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">advanced</text><text x=\"180\" y=\"178\" fill=\"#E8E4DA\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">society</text><rect x=\"400\" y=\"130\" width=\"120\" height=\"70\" rx=\"8\" fill=\"#232C39\" stroke=\"#7fa38a\"/><text x=\"460\" y=\"160\" fill=\"#E8E4DA\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">recovering</text><text x=\"460\" y=\"178\" fill=\"#E8E4DA\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">planet</text><text x=\"320\" y=\"225\" fill=\"#D4AD5C\" font-size=\"11\" text-anchor=\"middle\" font-family=\"sans-serif\">held level by clean firm power</text></svg>"
+   ],
+   [
+    "h2",
+    "Why it is worth the work"
+   ],
+   [
+    "p",
+    "The near-term engineering — a spherical tokamak breeder, a tandem-mirror burner, dates and design numbers with their conditions attached — can look narrow next to a picture this large. The picture is why the narrow work matters. Each milestone is a step toward a world that does not force a choice between human flourishing and a living planet."
+   ],
+   [
+    "h2",
+    "The standing commitment"
+   ],
+   [
+    "ul",
+    [
+     "Rigor about the next step; clarity about the destination; never confusing the two.",
+     "Renewables and fusion as partners, not rivals.",
+     "No overclaiming: the machines are studies today, and this is labeled vision.",
+     "No economics — the case here is physical and human, not financial."
+    ]
+   ],
+   [
+    "p",
+    "Begin again at <a href=./the-vision.html>the vision</a>, or revisit the limits in <a href=./honest-vision-what-we-dont-claim.html>what we don’t claim</a>."
+   ]
+  ],
+  "related": [
+   [
+    "the-vision",
+    "The Vision"
+   ],
+   [
+    "honest-vision-what-we-dont-claim",
+    "What We Don’t Claim"
+   ],
+   [
+    "the-healed-planet",
+    "The Healed Planet"
+   ]
+  ],
+  "seo_type": "TechArticle"
+ }
+]

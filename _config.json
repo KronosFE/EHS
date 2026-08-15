@@ -1,0 +1,35 @@
+{
+  "route": "ehs",
+  "title": "Environment, Health & Safety",
+  "short": "EHS",
+  "kicker": "ENVIRONMENT · HEALTH · SAFETY",
+  "headline": "Clean by design, safe by physics.",
+  "tagline": "The Kronos environment, health, and safety case — low-neutron, meltdown-proof, no long-lived waste, and almost no water — plus one honest look at the world fusion makes possible.",
+  "hero_clip": "a3-clean.mp4",
+  "cats": {
+    "the-safety-case": [
+      "The Safety Case",
+      "Cannot melt down, cannot run away — passive safety by physics."
+    ],
+    "low-neutron-and-waste": [
+      "Low-Neutron & Waste",
+      "Low activation, favorable waste class, no long-lived spent fuel."
+    ],
+    "water-land-resources": [
+      "Water, Land & Resources",
+      "Minimal water via direct energy conversion; a small footprint."
+    ],
+    "fusion-vs-alternatives": [
+      "Fusion vs Alternatives",
+      "Clean, firm power that complements renewables."
+    ],
+    "fuel-and-sustainability": [
+      "Fuel & Sustainability",
+      "Abundant deuterium, bred helium-3, no mining."
+    ],
+    "the-vision": [
+      "The Vision",
+      "One page: the advanced society on a healed planet."
+    ]
+  }
+}
