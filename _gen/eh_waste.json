@@ -167,11 +167,11 @@
   "slug": "breeder-14-mev-neutron-flux",
   "title": "The Breeder's 14 MeV Neutron Flux",
   "cat": "low-neutron-and-waste",
-  "lede": "Hyperion is a D-T machine: about 80% of its 88.7 MW fusion power leaves as 14.1 MeV neutrons that breed tritium and drive activation.",
+  "lede": "Hyperion is a D-T machine: about 80% of its 85.0 MW fusion power leaves as 14.1 MeV neutrons that breed tritium and drive activation.",
   "body": [
    [
     "p",
-    "The breeder (Hyperion) is the opposite case from the burner. Its reaction, D + T → ⁴He + n, sends roughly four-fifths of the fusion energy into a single 14.1 MeV neutron. At the design point of 88.7 MW fusion power, that is a large, energetic neutron source by design — the neutrons are the product, not a nuisance."
+    "The breeder (Hyperion) is the opposite case from the burner. Its reaction, D + T → ⁴He + n, sends roughly four-fifths of the fusion energy into a single 14.1 MeV neutron. At the design point of 85.0 MW fusion power, that is a large, energetic neutron source by design — the neutrons are the product, not a nuisance."
    ],
    [
     "h2",
@@ -187,7 +187,7 @@
    ],
    [
     "html",
-    "<figure style=\"margin:1.6rem 0\"><svg viewBox=\"0 0 720 176\" width=\"100%\" style=\"max-width:720px;height:auto;display:block;font-family:Space Mono,monospace\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"720\" height=\"176\" rx=\"10\" fill=\"#232C39\" stroke=\"rgba(231,235,242,.2)\"/><text x=\"24\" y=\"30\" font-size=\"14\" fill=\"#E2C57E\" font-weight=\"bold\">Breeder D–T energy split (Hyperion, 88.7 MW)</text><rect x=\"24.0\" y=\"60\" width=\"537.6\" height=\"54\" fill=\"#b06a54\" stroke=\"#232C39\" stroke-width=\"1\"/><text x=\"292.8\" y=\"91\" font-size=\"11\" fill=\"#232C39\" text-anchor=\"middle\" font-weight=\"bold\">14.1 MeV neutron energy</text><rect x=\"561.6\" y=\"60\" width=\"134.4\" height=\"54\" fill=\"#D4AD5C\" stroke=\"#232C39\" stroke-width=\"1\"/><text x=\"628.8\" y=\"91\" font-size=\"11\" fill=\"#232C39\" text-anchor=\"middle\" font-weight=\"bold\">⁴He (alpha) charged energy</text><rect x=\"24\" y=\"127\" width=\"11\" height=\"11\" fill=\"#b06a54\"/><text x=\"40\" y=\"136\" font-size=\"10\" fill=\"#E7EBF2\">14.1 MeV neutron energy</text><rect x=\"186.6\" y=\"127\" width=\"11\" height=\"11\" fill=\"#D4AD5C\"/><text x=\"202.6\" y=\"136\" font-size=\"10\" fill=\"#E7EBF2\">⁴He (alpha) charged energy</text><text x=\"24\" y=\"166\" font-size=\"10\" fill=\"rgba(231,235,242,.6)\">D–T sends ~80% of fusion energy into neutrons — the inverse of the low-neutron burner.</text></svg></figure>"
+    "<figure style=\"margin:1.6rem 0\"><svg viewBox=\"0 0 720 176\" width=\"100%\" style=\"max-width:720px;height:auto;display:block;font-family:Space Mono,monospace\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\"><rect x=\"0\" y=\"0\" width=\"720\" height=\"176\" rx=\"10\" fill=\"#232C39\" stroke=\"rgba(231,235,242,.2)\"/><text x=\"24\" y=\"30\" font-size=\"14\" fill=\"#E2C57E\" font-weight=\"bold\">Breeder D–T energy split (Hyperion, 85.0 MW)</text><rect x=\"24.0\" y=\"60\" width=\"537.6\" height=\"54\" fill=\"#b06a54\" stroke=\"#232C39\" stroke-width=\"1\"/><text x=\"292.8\" y=\"91\" font-size=\"11\" fill=\"#232C39\" text-anchor=\"middle\" font-weight=\"bold\">14.1 MeV neutron energy</text><rect x=\"561.6\" y=\"60\" width=\"134.4\" height=\"54\" fill=\"#D4AD5C\" stroke=\"#232C39\" stroke-width=\"1\"/><text x=\"628.8\" y=\"91\" font-size=\"11\" fill=\"#232C39\" text-anchor=\"middle\" font-weight=\"bold\">⁴He (alpha) charged energy</text><rect x=\"24\" y=\"127\" width=\"11\" height=\"11\" fill=\"#b06a54\"/><text x=\"40\" y=\"136\" font-size=\"10\" fill=\"#E7EBF2\">14.1 MeV neutron energy</text><rect x=\"186.6\" y=\"127\" width=\"11\" height=\"11\" fill=\"#D4AD5C\"/><text x=\"202.6\" y=\"136\" font-size=\"10\" fill=\"#E7EBF2\">⁴He (alpha) charged energy</text><text x=\"24\" y=\"166\" font-size=\"10\" fill=\"rgba(231,235,242,.6)\">D–T sends ~80% of fusion energy into neutrons — the inverse of the low-neutron burner.</text></svg></figure>"
    ],
    [
     "p",
@@ -351,7 +351,7 @@
    ],
    [
     "p",
-    "The breeder's first wall, facing an 80%-neutron D–T output at 88.7 MW, accumulates dpa fastest and is treated as a scheduled-replacement component. The burner's first wall, seeing only the 5.44% neutron channel, accumulates damage far more slowly, so its structure lasts longer and activates less."
+    "The breeder's first wall, facing an 80%-neutron D–T output at 85.0 MW, accumulates dpa fastest and is treated as a scheduled-replacement component. The burner's first wall, seeing only the 5.44% neutron channel, accumulates damage far more slowly, so its structure lasts longer and activates less."
    ],
    [
     "code",
@@ -405,7 +405,7 @@
    ],
    [
     "p",
-    "In Hyperion the compact spherical-tokamak geometry concentrates an 88.7 MW fusion output, four-fifths of it neutrons, onto a modest wall area. That produces a demanding neutron load that drives displacement damage and transmutation, and it is the reason the first wall and blanket are engineered as periodically replaced modules rather than lifetime components."
+    "In Hyperion the compact spherical-tokamak geometry concentrates an 85.0 MW fusion output, four-fifths of it neutrons, onto a modest wall area. That produces a demanding neutron load that drives displacement damage and transmutation, and it is the reason the first wall and blanket are engineered as periodically replaced modules rather than lifetime components."
    ],
    [
     "h2",
@@ -675,7 +675,7 @@
   "body": [
    [
     "p",
-    "Hyperion's activation is concentrated where the neutron flux is highest: the first wall, the breeding blanket, and the nearest structure. With about 80% of 88.7 MW leaving as 14.1 MeV neutrons, these components accumulate the most transmutation and are the plant's dominant radioactive inventory after shutdown."
+    "Hyperion's activation is concentrated where the neutron flux is highest: the first wall, the breeding blanket, and the nearest structure. With about 80% of 85.0 MW leaving as 14.1 MeV neutrons, these components accumulate the most transmutation and are the plant's dominant radioactive inventory after shutdown."
    ],
    [
     "h2",

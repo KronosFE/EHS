@@ -253,7 +253,7 @@
    ],
    [
     "p",
-    "Fusion requires low density and extreme temperature, the opposite of a dense fuel load. The breeder (Hyperion) runs a dilute plasma at a plasma current of <b>9.86 MA</b> and fusion power of <b>88.7 MW</b>; the burner confines an even thinner plasma between magnetic plugs. Both hold only a tiny mass in the burn region at any moment, replenished by fueling systems that can be shut off instantly."
+    "Fusion requires low density and extreme temperature, the opposite of a dense fuel load. The breeder (Hyperion) runs a dilute plasma at a plasma current of <b>9.66 MA</b> and fusion power of <b>85.0 MW</b>; the burner confines an even thinner plasma between magnetic plugs. Both hold only a tiny mass in the burn region at any moment, replenished by fueling systems that can be shut off instantly."
    ],
    [
     "html",
@@ -698,7 +698,7 @@
     [
      "Temperature high enough for the fusion cross-section — hundreds of millions of degrees.",
      "Density and confinement time meeting the triple-product threshold.",
-     "Magnetic confinement intact (plasma current 9.86 MA in the breeder; 26.49 T plugs in the burner).",
+     "Magnetic confinement intact (plasma current 9.66 MA in the breeder; 26.49 T plugs in the burner).",
      "Impurity and helium-ash levels low enough not to smother the reaction.",
      "Macroscopic stability — no disruption or loss of the confining field."
     ]
@@ -2173,7 +2173,7 @@
     "ul",
     [
      "<b>Thermal quench:</b> the plasma dumps its (small) thermal energy to the first wall.",
-     "<b>Current quench:</b> the plasma current (up to 9.86 MA) decays rapidly, inducing forces.",
+     "<b>Current quench:</b> the plasma current (up to 9.66 MA) decays rapidly, inducing forces.",
      "<b>Halo and eddy currents:</b> mechanical loads on the vessel and structures.",
      "<b>Runaway electrons:</b> a beam of fast electrons that must be dissipated — mitigated by design."
     ]

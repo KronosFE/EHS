@@ -430,7 +430,7 @@
   "body": [
    [
     "p",
-    "Honesty requires separating the two machines. The burner's water advantage comes from direct energy conversion. The breeder (Hyperion) is a different animal: a D-T spherical tokamak whose fusion power of 88.7 MW is carried overwhelmingly by 14 MeV <b>neutrons</b>. Neutrons cannot be collected electrically; they deposit their energy as heat in the blanket and first wall. That heat is real and must be managed."
+    "Honesty requires separating the two machines. The burner's water advantage comes from direct energy conversion. The breeder (Hyperion) is a different animal: a D-T spherical tokamak whose fusion power of 85.0 MW is carried overwhelmingly by 14 MeV <b>neutrons</b>. Neutrons cannot be collected electrically; they deposit their energy as heat in the blanket and first wall. That heat is real and must be managed."
    ],
    [
     "h2",
@@ -2320,7 +2320,7 @@
    ],
    [
     "p",
-    "Activation intensity scales with neutron flux. The D-T breeder (Hyperion) produces 88.7 MW of fusion power carried mostly by 14 MeV neutrons, so its structures activate more strongly. The burner (Aegis / MetroVolt) has a neutron fraction of 5.44% — much lower, but not zero, which is why 'aneutronic' would be false. Activation <i>decays</i>, and reduced-activation alloys are engineered so the decay reaches low levels over shorter, characterized timescales."
+    "Activation intensity scales with neutron flux. The D-T breeder (Hyperion) produces 85.0 MW of fusion power carried mostly by 14 MeV neutrons, so its structures activate more strongly. The burner (Aegis / MetroVolt) has a neutron fraction of 5.44% — much lower, but not zero, which is why 'aneutronic' would be false. Activation <i>decays</i>, and reduced-activation alloys are engineered so the decay reaches low levels over shorter, characterized timescales."
    ],
    [
     "html",

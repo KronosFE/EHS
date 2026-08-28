@@ -924,7 +924,7 @@
    ],
    [
     "p",
-    "The breeder is a spherical tokamak. Its design-point figures include a scientific gain (Q) of 3.424, fusion power of 88.7 MW, plasma current of 9.86 MA, a peak field of 16.84 T (about 8 T on axis), and negative triangularity of -0.30. These are computed design targets, not measurements."
+    "The breeder is a spherical tokamak. Its design-point figures include a scientific gain (Q) of 3.076, fusion power of 85.0 MW, plasma current of 9.66 MA, a peak field of 16.84 T (about 8 T on axis), and negative triangularity of -0.30. These are computed design targets, not measurements."
    ],
    [
     "ul",
@@ -1576,7 +1576,7 @@
      "Fusion energy per unit mass dwarfs chemical fuels",
      "Small fuel mass makes transport and storage trivial",
      "Dilute fuel is still abundant because so little is needed",
-     "The breeder design point releases 88.7 MW of fusion power"
+     "The breeder design point releases 85.0 MW of fusion power"
     ]
    ],
    [
@@ -1585,7 +1585,7 @@
    ],
    [
     "p",
-    "The 88.7 MW figure and the breeder's scientific gain of 3.424 are computed design targets, not measured performance. See <a href=./fuel-logistics.html>fuel logistics</a> and <a href=./deuterium-abundance.html>deuterium abundance</a>."
+    "The 85.0 MW figure and the breeder's scientific gain of 3.076 are computed design targets, not measured performance. See <a href=./fuel-logistics.html>fuel logistics</a> and <a href=./deuterium-abundance.html>deuterium abundance</a>."
    ],
    [
     "h3",
@@ -3389,7 +3389,7 @@
    [
     "ul",
     [
-     "<b>Breeder (Hyperion)</b> — deuterium-tritium spherical tokamak; design Q 3.424, 88.7 MW, 9.86 MA, 16.84 T peak.",
+     "<b>Breeder (Hyperion)</b> — deuterium-tritium spherical tokamak; design Q 3.076, 85.0 MW, 9.66 MA, 16.84 T peak.",
      "<b>Burner (Aegis / MetroVolt)</b> — deuterium-helium-3 tandem mirror; 26.49 T plug, 17 T throat, 5.44% neutron fraction.",
      "<b>Design and simulation study</b> — computed targets, not measurements; construction begins Q2 2027, first tritium ~2030."
     ]
